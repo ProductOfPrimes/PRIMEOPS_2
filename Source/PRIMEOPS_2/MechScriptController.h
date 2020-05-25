@@ -18,6 +18,8 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaSeconds) override;
 
+	void AddHeat(float heat);
+
 protected:
 
 	UPROPERTY(EditAnywhere, Category = Aiming)
@@ -62,13 +64,24 @@ protected:
 
 	bool m_isTurning = false;
 
-	UPROPERTY(EditAnywhere, Category = Properties)
+	UPROPERTY(EditAnywhere, Category = Gameplay Properties)
 	float health = 100.0f;
+	UPROPERTY(EditAnywhere, Category = Gameplay Properties)
+	float maxHealth = 100.0f;
 
-	UPROPERTY(EditAnywhere, Category = Properties)
-	float heat = 100.0f;
+	UPROPERTY(EditAnywhere, Category = Gameplay Properties)
+	float heat = 0;
+	UPROPERTY(EditAnywhere, Category = Gameplay Properties)
+	float maxHeat = 1.0;
+	UPROPERTY(EditAnywhere, Category = Gameplay Properties)
+	float heatDrain = 0.0; // Reduce heat per second
+	bool m_isOverHeated = false;
+	float m_overheatThreshold = 0.5f; // After overheating, heat must dissipate below this before they can fire again
+	const float m_heatWarningThreshold = 0.7f; // When heat over this value, warnings appear
 
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+
+	void DoLocomotion(float DeltaSeconds);
 
 };

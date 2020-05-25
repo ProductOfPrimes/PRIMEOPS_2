@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
 #include "Ability_Base.generated.h"
-
+#include "MechScriptController.h"
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class PRIMEOPS_2_API UAbility_Base : public UActorComponent
@@ -26,14 +26,16 @@ public:
 
 	//void SetOwner()
 
-	virtual void Activate();
+	virtual void ActivateAbility();
 
 	virtual void OnEquip();
 	virtual void OnUnequip();
 
 	virtual void OnCooldownFinish();
-	// MechOwner mechOwner;
 
+	void SetOwner(AMechScriptController* owner);
+
+	AMechScriptController* mechOwner;
 	float m_cooldown = 0.1f;
 	float m_heatGeneration = 0.25f;
 

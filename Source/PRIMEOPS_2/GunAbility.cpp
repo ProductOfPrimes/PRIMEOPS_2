@@ -3,7 +3,7 @@
 
 #include "GunAbility.h"
 
-void UGunAbility::Activate()
+void UGunAbility::ActivateAbility()
 {
 	if (m_cooldownTimer <= 0.0f && m_bulletsToFire == 0)
 	{
@@ -24,7 +24,7 @@ void UGunAbility::TickComponent(float DeltaTime, ELevelTick TickType, FActorComp
 			m_bulletsToFire -= 1;
 
 			Fire();
-			//m_owner->addHeat(m_heatGeneration);
+			mechOwner->addHeat(m_heatGeneration);
 			//rumble();
 
 			if (m_bulletsToFire == 0)

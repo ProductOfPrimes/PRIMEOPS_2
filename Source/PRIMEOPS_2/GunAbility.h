@@ -15,7 +15,7 @@ class PRIMEOPS_2_API UGunAbility : public UAbility_Base
 	GENERATED_BODY()
 	
 public:
-	virtual void Activate();
+	virtual void ActivateAbility();
 	virtual void Fire();
 	virtual void OnCooldownFinish();
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
