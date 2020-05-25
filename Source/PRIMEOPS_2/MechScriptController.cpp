@@ -3,3 +3,17 @@
 
 #include "MechScriptController.h"
 
+void AMechScriptController::Tick(float DeltaSeconds)
+{
+	DoLocomotion(DeltaSeconds);
+}
+
+void AMechScriptController::BeginPlay()
+{
+
+}
+
+void DoLocomotion(float DeltaSeconds)
+{
+	
+}
