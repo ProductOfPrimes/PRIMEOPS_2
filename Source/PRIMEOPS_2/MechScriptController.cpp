@@ -103,3 +103,26 @@ void AMechScriptController::DecaySpeed(float DeltaSeconds)
 	//	FString::Printf(TEXT("%f : %f"), velocity.X, velocity.Y)// Our usual text message format
 	//);
 }
+
+void AMechScriptController::AddHeat(float _heat)
+{
+	//float previousHeatPercentage = getHeatPercentage();
+
+	//m_heat = max(m_heat + val, 0.0f);
+
+	//float heatPercentage = getHeatPercentage();
+
+	//// trigger an overheat
+	//if (m_heat >= m_heatMax && !m_isOverheated)
+	//{
+	//	m_isOverheated = true;
+	//	SoundSystem::getInstance()->PlaySoundOnce(Overheat, false, Alert);
+	//} // issue an overheat warning when heat rises over the percentage-based warning threshold
+	//else if (heatPercentage > m_heatWarningThreshold && previousHeatPercentage <= m_heatWarningThreshold)
+	//{
+	//	SoundSystem::getInstance()->PlaySoundOnce(Overheat_Warning, false, Alert);
+	//}
+
+	//// delay heat dissipation
+	//m_heatDelayTimer.restart();
+}
