@@ -1,6 +1,5 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "GunAbility.h"
 
 void UGunAbility::ActivateAbility()
@@ -24,7 +23,7 @@ void UGunAbility::TickComponent(float DeltaTime, ELevelTick TickType, FActorComp
 			m_bulletsToFire -= 1;
 
 			Fire();
-			mechOwner->addHeat(m_heatGeneration);
+			mechOwner->AddHeat(m_heatGeneration);
 			//rumble();
 
 			if (m_bulletsToFire == 0)

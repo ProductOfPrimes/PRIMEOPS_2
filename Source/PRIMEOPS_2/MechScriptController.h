@@ -4,8 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/PlayerController.h"
-#include "MechScriptController.generated.h"
 #include "GameFramework/Pawn.h"
+#include "MechScriptController.generated.h"
 
 /**
  * 
@@ -65,16 +65,16 @@ protected:
 
 	bool m_isTurning = false;
 
-	UPROPERTY(EditAnywhere, Category = Gameplay Properties)
+	UPROPERTY(EditAnywhere, Category = GameplayProperties)
 	float health = 100.0f;
-	UPROPERTY(EditAnywhere, Category = Gameplay Properties)
+	UPROPERTY(EditAnywhere, Category = GameplayProperties)
 	float maxHealth = 100.0f;
 
-	UPROPERTY(EditAnywhere, Category = Gameplay Properties)
+	UPROPERTY(EditAnywhere, Category = GameplayProperties)
 	float heat = 0;
-	UPROPERTY(EditAnywhere, Category = Gameplay Properties)
+	UPROPERTY(EditAnywhere, Category = GameplayProperties)
 	float maxHeat = 1.0;
-	UPROPERTY(EditAnywhere, Category = Gameplay Properties)
+	UPROPERTY(EditAnywhere, Category = GameplayProperties)
 	float heatDrain = 0.0; // Reduce heat per second
 	bool m_isOverHeated = false;
 	float m_overheatThreshold = 0.5f; // After overheating, heat must dissipate below this before they can fire again
