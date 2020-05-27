@@ -27,16 +27,18 @@ void USniperRifle::Fire()
 {
 	// Spawn projectile
 	//GameObject* projectile = makeProjectile();
-	//
-	//glm::vec3 forward = parent->transformable->getWorldTransform()[1];
-	//
+
+	FVector forward = mechOwner->GetPawn()->GetActorForwardVector();
+
+	//GetWorld()->SpawnActor()
+
 	//glm::vec3 offset = forward * 5.f;
 	//glm::vec3 spawnPosition = parent->transformable->getWorldPosition();
 	//
 	//projectile->transformable->setPosition(spawnPosition + offset);
 	//projectile->transformable->setDirection(forward);
-	// Play sound
-	//SoundSystem::getInstance()->PlaySoundOnceToChannel(&m_sndChannel, Fire, true, High);
+
+	// Play Fire sound
 
 	//recoil
 	//m_owner->m_velocity -= forward * m_recoil * GameClock::getInstance()->getFrameTime();

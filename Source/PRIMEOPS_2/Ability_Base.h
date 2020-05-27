@@ -6,6 +6,7 @@
 #include "Components/ActorComponent.h"
 #include "Ability_Base.generated.h"
 #include "MechScriptController.h"
+#include "Engine/World.h"
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class PRIMEOPS_2_API UAbility_Base : public UActorComponent
