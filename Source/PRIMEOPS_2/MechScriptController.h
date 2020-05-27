@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/PlayerController.h"
 #include "MechScriptController.generated.h"
+#include "GameFramework/Pawn.h"
 
 /**
  * 
