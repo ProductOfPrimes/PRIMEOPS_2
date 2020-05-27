@@ -18,7 +18,7 @@ void AMechScriptController::DoLocomotion(float DeltaSeconds)
 	
 }
 
-void AMechScriptController::AddHeat(float heat)
+void AMechScriptController::AddHeat(float _heat)
 {
 	//float previousHeatPercentage = getHeatPercentage();
 
