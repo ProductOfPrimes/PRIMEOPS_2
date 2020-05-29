@@ -120,6 +120,13 @@ void AMechScriptController::DecaySpeed(float DeltaSeconds)
 
 void AMechScriptController::GetAimTarget()
 {
+	//GEngine->AddOnScreenDebugMessage(
+	//	-1,        // don't over wrire previous message, add a new one
+	//	0.35f,   // Duration of message - limits distance messages scroll onto screen
+	//	FColor::Cyan.WithAlpha(64),   // Color and transparancy!
+	//	FString::Printf(TEXT("%f"), m_rightStickInput.Size())// Our usual text message format
+	//);
+
 	if (m_rightStickInput.Size() > 0.0f)
 	{
 		aimTarget = m_rightStickInput.GetSafeNormal();
@@ -128,6 +135,8 @@ void AMechScriptController::GetAimTarget()
 
 void AMechScriptController::GetAimDirection(float DeltaSeconds)
 {
+	GetAimTarget();
+
 	float angle = aimTarget.CosineAngle2D(aimDirection);
 
 	if (FMath::Abs(angle) > 0.1f)
