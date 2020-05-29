@@ -36,7 +36,7 @@ public:
 
 	void SetOwner(AMechScriptController* owner);
 
-	AMechScriptController* mechOwner;
+	class AMechScriptController* mechOwner;
 	float m_cooldown = 0.1f;
 	float m_heatGeneration = 0.25f;
 

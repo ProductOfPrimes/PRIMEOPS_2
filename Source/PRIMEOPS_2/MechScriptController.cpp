@@ -1,7 +1,8 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "MechScriptController.h"
+#include "Ability_Base.h"
+#include "SniperRifle.h"
 
 void AMechScriptController::Tick(float DeltaSeconds)
 {
@@ -18,6 +19,11 @@ void AMechScriptController::Tick(float DeltaSeconds)
 void AMechScriptController::BeginPlay()
 {
 	PrimaryActorTick.bCanEverTick = true;
+
+	USniperRifle newRifle = USniperRifle();
+	m_loadout[GearSlot::R_SHD] = &newRifle;
+
+	newRifle.SetOwner(this);
 }
 
 void AMechScriptController::PollControllers()
@@ -28,7 +34,6 @@ void AMechScriptController::PollControllers()
 
 void AMechScriptController::DoLocomotion(float DeltaSeconds)
 {	
-
 	InputToVelocity(DeltaSeconds);
 	GetWalkDirection(DeltaSeconds);
 	DecaySpeed(DeltaSeconds);
@@ -153,4 +158,15 @@ void AMechScriptController::AddHeat(float _heat)
 
 	//// delay heat dissipation
 	//m_heatDelayTimer.restart();
+}
+
+void AMechScriptController::FireRightShoulder()
+{
+	m_loadout[GearSlot::R_SHD]->Activate();
+	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("This is an on screen message!"));
+}
+
+void AMechScriptController::SetupInputComponent()
+{
+	InputComponent->BindAction("RightShoulder", IE_Pressed, this, &AMechScriptController::FireRightShoulder);
 }
