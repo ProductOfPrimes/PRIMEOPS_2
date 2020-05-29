@@ -7,7 +7,12 @@ void AMechScriptController::Tick(float DeltaSeconds)
 {
 	PollControllers();
 
-	DoLocomotion(DeltaSeconds);
+	if (IsValid(GetPawn()))
+	{
+		DoLocomotion(DeltaSeconds);
+
+		GetAimDirection(DeltaSeconds);
+	}
 }
 
 void AMechScriptController::BeginPlay()
@@ -22,10 +27,12 @@ void AMechScriptController::PollControllers()
 }
 
 void AMechScriptController::DoLocomotion(float DeltaSeconds)
-{
+{	
+
 	InputToVelocity(DeltaSeconds);
 	GetWalkDirection(DeltaSeconds);
 	DecaySpeed(DeltaSeconds);
+
 
 	GetPawn()->AddActorWorldOffset(walkDirection * speed * DeltaSeconds);
 
@@ -106,6 +113,23 @@ void AMechScriptController::DecaySpeed(float DeltaSeconds)
 	//);
 }
 
+void AMechScriptController::GetAimTarget()
+{
+	if (m_rightStickInput.Size() > 0.0f)
+	{
+		aimTarget = m_rightStickInput.GetSafeNormal();
+	}
+}
+
+void AMechScriptController::GetAimDirection(float DeltaSeconds)
+{
+	float angle = aimTarget.CosineAngle2D(aimDirection);
+
+	if (FMath::Abs(angle) > 0.1f)
+	{
+		aimDirection = aimDirection.RotateAngleAxis(FMath::Sign(angle) * DeltaSeconds * turnSpeed, FVector(0.0f, 0.0f, -1.0f)).GetSafeNormal();
+	}
+}
 
 
 void AMechScriptController::AddHeat(float _heat)
