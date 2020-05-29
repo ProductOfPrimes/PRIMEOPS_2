@@ -6,7 +6,8 @@
 #include "Engine.h"
 #include "GameFramework/PlayerController.h"
 #include "Kismet/GameplayStatics.h"
-#include "GameFramework/Pawn.h"#include "MechScriptController.generated.h"
+#include "GameFramework/Pawn.h"
+#include "MechScriptController.generated.h"
 
 /**
  * 
@@ -43,7 +44,7 @@ protected:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
 	float speed = 0.0f;
 
-	UPROPERTY(EditAnywhere, Category = Movement)
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
 	float speedMax = 7500.0f;
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
@@ -51,7 +52,7 @@ protected:
 
 	float m_pivotSpeed = 2.0f;
 	float m_accelerationMax = 140.0f;
-	float m_linearDrag = 50.0f;
+	float m_linearDrag = 20.0f;
 	float m_exponentialDrag = 0.9f;
 	float m_turnAngle = 0.0f;
 

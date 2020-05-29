@@ -11,13 +11,6 @@ void AMechScriptController::Tick(float DeltaSeconds)
 	GetWalkDirection(DeltaSeconds);
 	DecaySpeed(DeltaSeconds);
 
-	GEngine->AddOnScreenDebugMessage(
-		-1,        // don't over wrire previous message, add a new one
-		0.35f,   // Duration of message - limits distance messages scroll onto screen
-		FColor::Cyan.WithAlpha(64),   // Color and transparancy!
-		FString::Printf(TEXT("%f"), speed)// Our usual text message format
-	);
-
 	GetPawn()->AddActorWorldOffset(walkDirection * speed * DeltaSeconds);
 
 	walkRotation = walkDirection.Rotation();
@@ -91,10 +84,14 @@ void AMechScriptController::GetWalkDirection(float DeltaSeconds)
 
 void AMechScriptController::DecaySpeed(float DeltaSeconds)
 {
-	velocity *= (1 - (DeltaSeconds * m_exponentialDrag));
 
-	velocity.X = (FMath::Abs(velocity.X) - (m_linearDrag * DeltaSeconds)) * FMath::Sign(velocity.X);
-	velocity.Y = (FMath::Abs(velocity.Y) - (m_linearDrag * DeltaSeconds)) * FMath::Sign(velocity.Y);
+	velocity /= (1 + (DeltaSeconds * m_exponentialDrag));
+
+	if (speed > m_linearDrag)
+	{
+		velocity.X = (FMath::Abs(velocity.X) - (m_linearDrag * DeltaSeconds)) * FMath::Sign(velocity.X);
+		velocity.Y = (FMath::Abs(velocity.Y) - (m_linearDrag * DeltaSeconds)) * FMath::Sign(velocity.Y);
+	}
 
 	//GEngine->AddOnScreenDebugMessage(
 	//	-1,        // don't over wrire previous message, add a new one
