@@ -22,13 +22,13 @@ public:
 	virtual void Tick(float DeltaSeconds) override;
 
 	void AddHeat(float heat);
-	UFUNCTION(BlueprintCallable)
-	float GetSpeed() { return speed; }
+
 protected:
 
 	FVector m_leftStickInput = FVector();
 	FVector m_rightStickInput = FVector();
 
+	//Torso Rotation Variables
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Aiming)
 	FVector aimDirection = FVector(0.0f, 0.0f, 0.0f);
 
@@ -41,6 +41,7 @@ protected:
 	UPROPERTY(EditAnywhere, Category = Aiming)
 	float turnSpeed = 145.0f;
 
+	//Locomotion Variables 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
 	float speed = 0.0f;
 
@@ -73,6 +74,7 @@ protected:
 
 	bool m_isTurning = false;
 
+	//Gameplay Property Variables
 	UPROPERTY(EditAnywhere, Category = GameplayProperties)
 	float health = 100.0f;
 	UPROPERTY(EditAnywhere, Category = GameplayProperties)
@@ -95,4 +97,8 @@ protected:
 	void PollControllers();
 	void InputToVelocity(float DeltaSeconds);
 	void GetWalkDirection(float DeltaSeconds);
-	void DecaySpeed(float DeltaSeconds);};
+	void DecaySpeed(float DeltaSeconds);
+
+	void GetAimTarget();
+	void GetAimDirection();
+};

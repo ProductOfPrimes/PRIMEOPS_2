@@ -7,13 +7,7 @@ void AMechScriptController::Tick(float DeltaSeconds)
 {
 	PollControllers();
 
-	InputToVelocity(DeltaSeconds);
-	GetWalkDirection(DeltaSeconds);
-	DecaySpeed(DeltaSeconds);
-
-	GetPawn()->AddActorWorldOffset(walkDirection * speed * DeltaSeconds);
-
-	walkRotation = walkDirection.Rotation();
+	DoLocomotion(DeltaSeconds);
 }
 
 void AMechScriptController::BeginPlay()
@@ -25,6 +19,17 @@ void AMechScriptController::PollControllers()
 {
 	GetInputAnalogStickState(EControllerAnalogStick::Type::CAS_LeftStick, m_leftStickInput.Y, m_leftStickInput.X);
 	GetInputAnalogStickState(EControllerAnalogStick::Type::CAS_RightStick, m_rightStickInput.X, m_rightStickInput.Y);
+}
+
+void AMechScriptController::DoLocomotion(float DeltaSeconds)
+{
+	InputToVelocity(DeltaSeconds);
+	GetWalkDirection(DeltaSeconds);
+	DecaySpeed(DeltaSeconds);
+
+	GetPawn()->AddActorWorldOffset(walkDirection * speed * DeltaSeconds);
+
+	walkRotation = walkDirection.Rotation();
 }
 
 void AMechScriptController::InputToVelocity(float DeltaSeconds)
@@ -100,6 +105,8 @@ void AMechScriptController::DecaySpeed(float DeltaSeconds)
 	//	FString::Printf(TEXT("%f : %f"), velocity.X, velocity.Y)// Our usual text message format
 	//);
 }
+
+
 
 void AMechScriptController::AddHeat(float _heat)
 {
