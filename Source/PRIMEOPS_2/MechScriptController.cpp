@@ -38,7 +38,6 @@ void AMechScriptController::DoLocomotion(float DeltaSeconds)
 	GetWalkDirection(DeltaSeconds);
 	DecaySpeed(DeltaSeconds);
 
-
 	GetPawn()->AddActorWorldOffset(walkDirection * speed * DeltaSeconds);
 
 	walkRotation = walkDirection.Rotation();
@@ -49,7 +48,7 @@ void AMechScriptController::InputToVelocity(float DeltaSeconds)
 	//The desired velocity is the direction the player is inputting 
 	desiredVelocity = m_leftStickInput.GetClampedToSize(0.0f, 1.0f) * speedMax * DeltaSeconds;
 
-	if (desiredVelocity.Size() > 0.0f)
+	if ((desiredVelocity.Size() > 0.0f) && (m_state != LocomotionState::stopping))
 	{
 		//Save the last direction the player input for animation purposes 
 		m_lastDirInput = desiredVelocity;
@@ -69,33 +68,43 @@ void AMechScriptController::InputToVelocity(float DeltaSeconds)
 		//This dot product will be <0 if the vectors are opposite, which means the player wants to turn
 		velocityDotProduct = FVector().DotProduct(velocity, desiredVelocity);
 
-		if (velocityDotProduct < 0.0f)
-			m_isTurning = true;
+		if (velocityDotProduct < -1.0f)
+			m_state = LocomotionState::stopping;
+
+		if ((m_state == LocomotionState::stopping) && (speed <= (speedMax / 16.0f)))
+			m_state = LocomotionState::turning;
 	}
 }
 
 void AMechScriptController::GetWalkDirection(float DeltaSeconds)
 {
-	if (!m_isTurning)
+	if (m_state == LocomotionState::walking)
 	{
-		//This is here so that when the player's velocity reaches 0, they will not snap to face up
 		if (velocity.Size() > 0.0f)
 			walkDirection = velocity.GetSafeNormal();
 
+		//This is here so that when the player's velocity reaches 0, they will not snap to face up
 		else
 			walkDirection = m_lastDirInput.GetSafeNormal();
 	}
 
-	else
-	{		
+	else if (m_state == LocomotionState::turning)
+	{	
 		m_turnAngle = FMath::RadiansToDegrees(acosf(walkDirection.CosineAngle2D(m_lastDirInput)));
+
+		//GEngine->AddOnScreenDebugMessage(
+		//	-1,        // don't over wrire previous message, add a new one
+		//	0.35f,   // Duration of message - limits distance messages scroll onto screen
+		//	FColor::Cyan.WithAlpha(64),   // Color and transparancy!
+		//	FString::Printf(TEXT("%f"), m_turnAngle)// Our usual text message format
+		//);
 
 		walkDirection = walkDirection.RotateAngleAxis(m_turnAngle * DeltaSeconds * m_pivotSpeed, FVector(0.0f, 0.0f, 1.0f));
 
-		walkDirection.Normalize();
+		//walkDirection.Normalize();
 
-		if (m_turnAngle < 10.0f)
-			m_isTurning = false;
+		if (m_turnAngle < 5.0f)
+			m_state = LocomotionState::walking;
 	}
 }
 
@@ -108,6 +117,12 @@ void AMechScriptController::DecaySpeed(float DeltaSeconds)
 	{
 		velocity.X = (FMath::Abs(velocity.X) - (m_linearDrag * DeltaSeconds)) * FMath::Sign(velocity.X);
 		velocity.Y = (FMath::Abs(velocity.Y) - (m_linearDrag * DeltaSeconds)) * FMath::Sign(velocity.Y);
+
+		if (m_state == LocomotionState::stopping)
+		{
+			velocity.X = (FMath::Abs(velocity.X) - (m_stopDrag * DeltaSeconds)) * FMath::Sign(velocity.X);
+			velocity.Y = (FMath::Abs(velocity.Y) - (m_stopDrag * DeltaSeconds)) * FMath::Sign(velocity.Y);
+		}
 	}
 
 	//GEngine->AddOnScreenDebugMessage(
@@ -118,26 +133,27 @@ void AMechScriptController::DecaySpeed(float DeltaSeconds)
 	//);
 }
 
-void AMechScriptController::GetAimTarget()
+void AMechScriptController::GetAimDirection(float DeltaSeconds)
 {
+	if (m_rightStickInput.Size() > 0.0f)
+	{
+		aimTarget = m_rightStickInput.GetSafeNormal();
+	}	
+
+	float angle = aimTarget.CosineAngle2D(aimDirection);
+	
+	if (m_rightStickInput.Size() > 0.0f)
+	{
+		if (angle < 0.1f)
+			angle -= 1.0f;
+	}
+
 	//GEngine->AddOnScreenDebugMessage(
 	//	-1,        // don't over wrire previous message, add a new one
 	//	0.35f,   // Duration of message - limits distance messages scroll onto screen
 	//	FColor::Cyan.WithAlpha(64),   // Color and transparancy!
-	//	FString::Printf(TEXT("%f"), m_rightStickInput.Size())// Our usual text message format
+	//	FString::Printf(TEXT("%f"), angle)// Our usual text message format
 	//);
-
-	if (m_rightStickInput.Size() > 0.0f)
-	{
-		aimTarget = m_rightStickInput.GetSafeNormal();
-	}
-}
-
-void AMechScriptController::GetAimDirection(float DeltaSeconds)
-{
-	GetAimTarget();
-
-	float angle = aimTarget.CosineAngle2D(aimDirection);
 
 	if (FMath::Abs(angle) > 0.1f)
 	{

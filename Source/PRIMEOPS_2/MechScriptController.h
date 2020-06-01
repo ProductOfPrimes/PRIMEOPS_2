@@ -12,6 +12,9 @@
 /**
  * 
  */
+
+enum LocomotionState { walking, stopping, turning};
+
 UCLASS()
 class PRIMEOPS_2_API AMechScriptController : public APlayerController
 {
@@ -65,8 +68,9 @@ protected:
 	float velocityDotProduct = 0.0f;
 
 	float m_pivotSpeed = 2.0f;
-	float m_accelerationMax = 140.0f;
+	float m_accelerationMax = 100.0f;
 	float m_linearDrag = 20.0f;
+	float m_stopDrag = 50.0f;
 	float m_exponentialDrag = 0.9f;
 	float m_turnAngle = 0.0f;
 
@@ -85,7 +89,7 @@ protected:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
 	FRotator walkRotation = FRotator(0.0f, 0.0f, 0.0f);
 
-	bool m_isTurning = false;
+	LocomotionState m_state = walking;
 
 	//Gameplay Property Variables
 	UPROPERTY(EditAnywhere, Category = GameplayProperties)
@@ -113,7 +117,6 @@ protected:
 	void GetWalkDirection(float DeltaSeconds);
 	void DecaySpeed(float DeltaSeconds);
 
-	void GetAimTarget();
 	void GetAimDirection(float DeltaSeconds);
 
 	void FireRightShoulder();
