@@ -2,6 +2,8 @@
 
 #pragma once
 
+class UActorShaker;
+
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "Building.generated.h"
@@ -10,8 +12,21 @@ UCLASS()
 class PRIMEOPS_2_API ABuilding : public AActor
 {
 	GENERATED_BODY()
-	
-public:	
+
+public:
+
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		float m_hitPoints = 1;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		float m_hitPointsMax = 1000;
+
+	UPROPERTY(EDITANYWHERE)
+		UActorShaker* shaker;
+
+
+
 	// Sets default values for this actor's properties
 	ABuilding();
 
@@ -19,8 +34,8 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-public:	
-	// Called every frame
+public:
 	virtual void Tick(float DeltaTime) override;
 
+	float TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, class AActor* DamageCauser) override;
 };
