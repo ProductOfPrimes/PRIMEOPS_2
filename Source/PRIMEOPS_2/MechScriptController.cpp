@@ -172,10 +172,10 @@ void AMechScriptController::AddHeat(float _heat)
 void AMechScriptController::FireRightShoulder()
 {
 	m_loadout[GearSlot::R_SHD]->Activate();
-	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("This is an on screen message!"));
-}
+}	
 
 void AMechScriptController::SetupInputComponent()
 {
+	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("This is an on screen message!"));
 	InputComponent->BindAction("RightShoulder", IE_Pressed, this, &AMechScriptController::FireRightShoulder);
 }
