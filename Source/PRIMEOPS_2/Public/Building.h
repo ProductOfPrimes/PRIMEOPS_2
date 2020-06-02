@@ -17,12 +17,15 @@ public:
 
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		float m_hitPoints = 1;
+		float m_hitPoints;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		float m_hitPointsMax = 1000;
+		float m_hitPointsMax;
 
-	UPROPERTY(EDITANYWHERE)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+		bool m_isAlive;
+
+	UPROPERTY(EditAnywhere)
 		UActorShaker* shaker;
 
 
@@ -37,5 +40,5 @@ protected:
 public:
 	virtual void Tick(float DeltaTime) override;
 
-	float TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, class AActor* DamageCauser) override;
+	//float TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, class AActor* DamageCauser) override;
 };

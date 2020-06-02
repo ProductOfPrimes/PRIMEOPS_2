@@ -27,19 +27,28 @@ void UActorShaker::TickComponent(float DeltaTime, ELevelTick TickType, FActorCom
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	static float nonlinearDecay(2.0f);
 
-	if (trauma > 0.0001)
+	if (trauma > 0.00001 && duration > 0)
 	{
-
-		trauma -= ((m_decay * DeltaTime) + (nonlinearDecay * m_decay * (trauma)*DeltaTime)); // trauma decreases nonlinearly
+		trauma -= ((m_decayLinear * DeltaTime) + (m_decayNonLinear * (trauma)*DeltaTime)); // trauma decreases nonlinearly
 		trauma = FMath::Max(trauma, 0.0f);
 
-		float x = FMath::FRandRange(-m_translationMax, m_translationMax) * trauma;
-		float y = FMath::FRandRange(-m_translationMax, m_translationMax) * trauma;
-		float z = FMath::FRandRange(-m_translationMax, m_translationMax) * trauma;
+		duration -= DeltaTime;
+		duration = FMath::Max(duration, 0.0f);
+		
+		float x = 0, y = 0, z = 0;
+
+		if (!m_constrainX)
+		x = FMath::FRandRange(-m_translationMax, m_translationMax) * trauma;
+		if (!m_constrainY)
+		y = FMath::FRandRange(-m_translationMax, m_translationMax) * trauma;
+		if (!m_constrainZ)
+		z = FMath::FRandRange(-m_translationMax, m_translationMax) * trauma;
 
 		FVector offset(x, y, z);
+
+		offset = FMath::Lerp(offset, GetRelativeLocation(), m_smoothness * DeltaTime);
+
 		SetRelativeLocation(offset);
 	}
 	else
@@ -48,9 +57,9 @@ void UActorShaker::TickComponent(float DeltaTime, ELevelTick TickType, FActorCom
 	}
 }
 
-void UActorShaker::AddTrauma(float a_trauma)
+void UActorShaker::AddTrauma(float a_trauma, float a_duration)
 {
 	trauma += a_trauma;
-	
+	duration = a_duration;
 }
 
