@@ -25,11 +25,6 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		bool m_isAlive;
 
-	UPROPERTY(EditAnywhere)
-		UActorShaker* shaker;
-
-
-
 	// Sets default values for this actor's properties
 	ABuilding();
 

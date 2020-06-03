@@ -17,7 +17,7 @@ ABuilding::ABuilding()
 	PrimaryActorTick.bCanEverTick = true;
 	//printf("test");
 	// Standard way to log to console.
-	UE_LOG(LogTemp, Warning, TEXT("Building just started running"));
+	//UE_LOG(LogTemp, Warning, TEXT("Building just started running"));
 }
 
 // Called when the game starts or when spawned
