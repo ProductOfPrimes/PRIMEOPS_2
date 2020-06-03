@@ -21,23 +21,12 @@ class PRIMEOPS_2_API AMechScriptController : public APlayerController
 	GENERATED_BODY()
 	
 public:
-	enum GearSlot 
-	{
-		L_ARM,
-		L_SHD,
-		R_SHD,
-		R_ARM,
-		NUM_GEAR_SLOTS
-	};
-
 	// Called every frame
 	virtual void Tick(float DeltaSeconds) override;
 
-	void AddHeat(float heat);
+	void SetupPlayerInputComponent();
 	UFUNCTION(BlueprintCallable)
 	float GetSpeed(){return speed;}
-
-	virtual void SetupInputComponent();
 
 protected:
 
@@ -97,18 +86,6 @@ protected:
 	UPROPERTY(EditAnywhere, Category = GameplayProperties)
 	float maxHealth = 100.0f;
 
-	UPROPERTY(EditAnywhere, Category = GameplayProperties)
-	float heat = 0;
-	UPROPERTY(EditAnywhere, Category = GameplayProperties)
-	float maxHeat = 1.0;
-	UPROPERTY(EditAnywhere, Category = GameplayProperties)
-	float heatDrain = 0.0; // Reduce heat per second
-	bool m_isOverHeated = false;
-	float m_overheatThreshold = 0.5f; // After overheating, heat must dissipate below this before they can fire again
-	const float m_heatWarningThreshold = 0.7f; // When heat over this value, warnings appear
-
-	class UAbility_Base* m_loadout[4];
-
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 	void DoLocomotion(float DeltaSeconds);
@@ -118,6 +95,4 @@ protected:
 	void DecaySpeed(float DeltaSeconds);
 
 	void GetAimDirection(float DeltaSeconds);
-
-	void FireRightShoulder();
 };

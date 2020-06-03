@@ -43,7 +43,7 @@ void UAbility_Base::TickComponent(float DeltaTime, ELevelTick TickType, FActorCo
 	}
 }
 
-void UAbility_Base::SetOwner(AMechScriptController* owner) {
+void UAbility_Base::SetOwner(UMechWeaponHandler* owner) {
 	mechOwner = owner;
 }
 

@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
 #include "Engine/World.h"
-#include "MechScriptController.h"
+#include "MechWeaponHandler.h"
 #include "Ability_Base.generated.h"
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
@@ -34,9 +34,9 @@ public:
 
 	virtual void OnCooldownFinish();
 
-	void SetOwner(AMechScriptController* owner);
+	void SetOwner(UMechWeaponHandler* owner);
 
-	class AMechScriptController* mechOwner;
+	class UMechWeaponHandler* mechOwner;
 	float m_cooldown = 0.1f;
 	float m_heatGeneration = 0.25f;
 
