@@ -28,7 +28,7 @@ void USniperRifle::Fire()
 	// Spawn projectile
 	//GameObject* projectile = makeProjectile();
 
-	FVector forward = mechOwner->GetPawn()->GetActorForwardVector();
+	//FVector forward = mechOwner->GetPawn()->GetActorForwardVector();
 
 	//GetWorld()->SpawnActor()
 
