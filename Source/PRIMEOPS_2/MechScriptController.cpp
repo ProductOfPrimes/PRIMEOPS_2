@@ -22,7 +22,7 @@ void AMechScriptController::BeginPlay()
 
 void AMechScriptController::PollControllers()
 {
-	GetInputAnalogStickState(EControllerAnalogStick::Type::CAS_LeftStick, m_leftStickInput.Y, m_leftStickInput.X);
+ 	GetInputAnalogStickState(EControllerAnalogStick::Type::CAS_LeftStick, m_leftStickInput.Y, m_leftStickInput.X);
 	GetInputAnalogStickState(EControllerAnalogStick::Type::CAS_RightStick, m_rightStickInput.X, m_rightStickInput.Y);
 }
 
@@ -86,6 +86,10 @@ void AMechScriptController::GetWalkDirection(float DeltaSeconds)
 	{	
 		m_turnAngle = FMath::RadiansToDegrees(acosf(walkDirection.CosineAngle2D(m_lastDirInput)));
 
+		if (m_turnAngle > 180.0f)
+		{
+			m_turnAngle = m_turnAngle;
+		}
 		//GEngine->AddOnScreenDebugMessage(
 		//	-1,        // don't over wrire previous message, add a new one
 		//	0.35f,   // Duration of message - limits distance messages scroll onto screen
