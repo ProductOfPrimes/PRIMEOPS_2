@@ -43,11 +43,11 @@ void UMechWeaponHandler::FireRightShoulder()
 
 void UMechWeaponHandler::AddHeat(float _heat)
 {
-	//float previousHeatPercentage = getHeatPercentage();
+	float previousHeatPercentage = GetHeatPercentage();
 
-	//m_heat = max(m_heat + val, 0.0f);
+	m_heat = FMath::Max(m_heat + _heat, 0.0f);
 
-	//float heatPercentage = getHeatPercentage();
+	float heatPercentage = GetHeatPercentage();
 
 	//// trigger an overheat
 	//if (m_heat >= m_heatMax && !m_isOverheated)

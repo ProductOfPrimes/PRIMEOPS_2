@@ -28,9 +28,9 @@ public:
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
 	UPROPERTY(EditAnywhere, Category = GameplayProperties)
-	float heat = 0;
+	float m_heat = 0;
 	UPROPERTY(EditAnywhere, Category = GameplayProperties)
-	float maxHeat = 1.0;
+	float m_maxHeat = 1.0;
 	UPROPERTY(EditAnywhere, Category = GameplayProperties)
 	float heatDrain = 0.0; // Reduce heat per second
 	bool m_isOverHeated = false;
@@ -38,6 +38,7 @@ public:
 	const float m_heatWarningThreshold = 0.7f; // When heat over this value, warnings appear
 
 	void AddHeat(float heat);
+	float GetHeatPercentage() { return m_heat / m_maxHeat; }
 
 	class UAbility_Base* m_loadout[4];
 
