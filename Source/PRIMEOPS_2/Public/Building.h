@@ -2,10 +2,10 @@
 
 #pragma once
 
-class UActorShaker;
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+
 #include "Building.generated.h"
 
 UCLASS()

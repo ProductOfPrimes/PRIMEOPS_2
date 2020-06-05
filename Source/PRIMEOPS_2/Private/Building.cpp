@@ -3,9 +3,7 @@
 
 #include "Building.h"
 #include "Engine.h"
-#include "ActorShaker.h"
 #include "Console.generated.h"
-#include "Net/UnrealNetwork.h"
 
 // Sets default values
 ABuilding::ABuilding()
@@ -16,7 +14,6 @@ ABuilding::ABuilding()
 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 	//printf("test");
-	// Standard way to log to console.
 	//UE_LOG(LogTemp, Warning, TEXT("Building just started running"));
 }
 
