@@ -5,7 +5,7 @@
 
 void AMechScriptController::Tick(float DeltaSeconds)
 {
-	PollControllers();
+	//PollControllers();
 
 	if (IsValid(GetPawn()))
 	{
@@ -20,10 +20,20 @@ void AMechScriptController::BeginPlay()
 	PrimaryActorTick.bCanEverTick = true;
 }
 
-void AMechScriptController::PollControllers()
+//void AMechScriptController::PollControllers()
+//{
+// 	GetInputAnalogStickState(EControllerAnalogStick::Type::CAS_LeftStick, m_leftStickInput.Y, m_leftStickInput.X);
+//	GetInputAnalogStickState(EControllerAnalogStick::Type::CAS_RightStick, m_rightStickInput.X, m_rightStickInput.Y);
+//}
+
+void AMechScriptController::SetLeftStickInput(FVector vec)
 {
- 	GetInputAnalogStickState(EControllerAnalogStick::Type::CAS_LeftStick, m_leftStickInput.Y, m_leftStickInput.X);
-	GetInputAnalogStickState(EControllerAnalogStick::Type::CAS_RightStick, m_rightStickInput.X, m_rightStickInput.Y);
+	m_leftStickInput = vec;
+}
+
+void AMechScriptController::SetRightStickInput(FVector vec)
+{
+	m_rightStickInput = vec;
 }
 
 void AMechScriptController::DoLocomotion(float DeltaSeconds)

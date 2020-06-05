@@ -89,7 +89,11 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 	void DoLocomotion(float DeltaSeconds);
-	void PollControllers();
+
+	void SetLeftStickInput(FVector vec);
+	void SetRightStickInput(FVector vec);
+	//void PollControllers();
+
 	void InputToVelocity(float DeltaSeconds);
 	void GetWalkDirection(float DeltaSeconds);
 	void DecaySpeed(float DeltaSeconds);
