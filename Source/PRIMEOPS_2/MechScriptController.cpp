@@ -98,7 +98,7 @@ void AMechScriptController::GetWalkDirection(float DeltaSeconds)
 
 		if (m_turnAngle > 180.0f)
 		{
-			m_turnAngle = m_turnAngle;
+			m_turnAngle = ((int)m_turnAngle % 180) * -1;
 		}
 		//GEngine->AddOnScreenDebugMessage(
 		//	-1,        // don't over wrire previous message, add a new one

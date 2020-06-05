@@ -90,7 +90,9 @@ protected:
 	virtual void BeginPlay() override;
 	void DoLocomotion(float DeltaSeconds);
 
+	UFUNCTION(BlueprintCallable)
 	void SetLeftStickInput(FVector vec);
+	UFUNCTION(BlueprintCallable)
 	void SetRightStickInput(FVector vec);
 	//void PollControllers();
 

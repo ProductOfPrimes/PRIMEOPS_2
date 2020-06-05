@@ -1,8 +1,8 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
+#include "MechWeaponHandler.h"
 #include "Ability_Base.h"
 #include "SniperRifle.h"
-#include "MechWeaponHandler.h"
 
 // Sets default values for this component's properties
 UMechWeaponHandler::UMechWeaponHandler()
