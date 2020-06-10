@@ -44,27 +44,37 @@ protected:
 	FRotator aimRotation;
 
 	UPROPERTY(EditAnywhere, Category = Aiming)
-	float turnSpeed = 145.0f;
+	float turnSpeed = 120.0f;
+
+	float m_turnAngle = 0.0f;
 
 	//Locomotion Variables 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
 	float speed = 0.0f;
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
-	float speedMax = 7500.0f;
+	float speedMax = 8000.0f;
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
 	float velocityDotProduct = 0.0f;
 
-	float m_pivotSpeed = 2.0f;
-	float m_accelerationMax = 100.0f;
-	float m_linearDrag = 20.0f;
-	float m_stopDrag = 50.0f;
-	float m_exponentialDrag = 0.9f;
-	float m_turnAngle = 0.0f;
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
+	float m_pivotSpeed = 3.5f;
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
-	FVector velocity = FVector(0.0f, 0.0f, 0.0f);
+	float m_accelerationMax = 65.0f;
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
+	float m_linearDrag = 10.0f;
+	
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
+	float m_stopDrag = 30.0f;
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
+	float m_exponentialDrag = 0.8f;
+
+	//UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
+	//FVector velocity = FVector(0.0f, 0.0f, 0.0f);
 
 	UPROPERTY(EditAnywhere, Category = Movement)
 	FVector desiredVelocity = FVector(0.0f, 0.0f, 0.0f);
@@ -73,18 +83,14 @@ protected:
 	FVector walkDirection = FVector(0.0f, 0.0f, 0.0f);
 
 	FVector m_lastDirInput = FVector(0.0f, 0.0f, 0.0f);
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
 	FVector m_desiredDeltaVelocity = FVector(0.0f, 0.0f, 0.0f);
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Movement)
 	FRotator walkRotation = FRotator(0.0f, 0.0f, 0.0f);
 
 	LocomotionState m_state = walking;
-
-	//Gameplay Property Variables
-	UPROPERTY(EditAnywhere, Category = GameplayProperties)
-	float health = 100.0f;
-	UPROPERTY(EditAnywhere, Category = GameplayProperties)
-	float maxHealth = 100.0f;
 
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
