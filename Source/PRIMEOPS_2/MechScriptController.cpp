@@ -78,8 +78,15 @@ void AMechScriptController::InputToVelocity(float DeltaSeconds)
 	}
 	else
 	{
-		m_desiredDeltaVelocity = FVector::ZeroVector;
+		m_desiredDeltaVelocity = (-currentVelocity);
 	}
+
+	GEngine->AddOnScreenDebugMessage(
+		22,
+		1.0f,   // Duration of message - limits distance messages scroll onto screen
+		FColor::Magenta.WithAlpha(128),   // Color and transparancy!
+		FString::Printf(TEXT("Vel: %s"), *currentVelocity.ToString())  // Our usual text message format
+	);
 
 	speed = currentVelocity.Size();
 
