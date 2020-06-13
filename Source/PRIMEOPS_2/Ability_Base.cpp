@@ -1,6 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "Ability_Base.h"
+#include "MechWeaponHandler.h"
 
 // Sets default values for this component's properties
 UAbility_Base::UAbility_Base()
@@ -43,7 +44,7 @@ void UAbility_Base::TickComponent(float DeltaTime, ELevelTick TickType, FActorCo
 	}
 }
 
-void UAbility_Base::SetOwner(UMechWeaponHandler* owner) {
+void UAbility_Base::SetMechOwner(UMechWeaponHandler* owner) {
 	mechOwner = owner;
 }
 

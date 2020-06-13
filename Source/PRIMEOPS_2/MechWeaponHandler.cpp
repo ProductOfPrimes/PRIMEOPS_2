@@ -1,6 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "MechWeaponHandler.h"
+#include "AbilitySystemComponent.h"
 #include "Ability_Base.h"
 #include "SniperRifle.h"
 
@@ -11,6 +12,8 @@ UMechWeaponHandler::UMechWeaponHandler()
 	// off to improve performance if you don't need them.
 	PrimaryComponentTick.bCanEverTick = true;
 
+    abilitySystem = CreateDefaultSubobject<UAbilitySystemComponent>(TEXT("AbilitySystem"));
+
 	// ...
 }
 
@@ -20,9 +23,45 @@ void UMechWeaponHandler::BeginPlay()
 {
 	Super::BeginPlay();
 
+    GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Hi"));
+
 	//
-	m_loadout[GearSlot::R_SHD] = NewObject<USniperRifle>();
-	m_loadout[GearSlot::R_SHD]->SetOwner(this);
+    if (sniper) 
+    {
+        GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Yes, prefab exists"));
+
+        FActorSpawnParameters spawnParams;
+        spawnParams.Owner = GetOwner();
+
+        FRotator rotator;
+
+        FVector spawnLocation = GetOwner()->GetActorLocation();
+
+        sniperObj = GetWorld()->SpawnActor<AActor>(sniper, spawnLocation, rotator, spawnParams);
+        if (sniperObj)
+        {
+            GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Yes, object spawned"));
+            //m_loadout[GearSlot::R_SHD] = newSniper->FindComponentByClass<UAbility_Base>();
+            m_loadout[GearSlot::R_SHD] = (UAbility_Base*)sniperObj->GetComponentByClass(UAbility_Base::StaticClass());
+            if (m_loadout[GearSlot::R_SHD])
+            {
+                m_loadout[GearSlot::R_SHD]->SetMechOwner(this);
+                GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Debug Sniper!"));
+            }
+            else
+            {
+                GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Fr*ck"));
+            }
+        }
+        else
+        {
+            GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Fr*ck"));
+        }
+    }
+    else
+    {
+        GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Nothing worked lmao"));
+    }
 //
 }
 
@@ -37,8 +76,14 @@ void UMechWeaponHandler::TickComponent(float DeltaTime, ELevelTick TickType, FAc
 
 void UMechWeaponHandler::FireRightShoulder()
 {
-	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("This is an on screen message!"));
-	m_loadout[GearSlot::R_SHD]->Activate();
+    if (m_loadout[GearSlot::R_SHD])
+    {
+        m_loadout[GearSlot::R_SHD]->ActivateAbility();
+    }
+    else
+    {
+        GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Misfire"));
+    }
 }	
 
 void UMechWeaponHandler::AddHeat(float _heat)
@@ -62,4 +107,9 @@ void UMechWeaponHandler::AddHeat(float _heat)
 
 	//// delay heat dissipation
 	//m_heatDelayTimer.restart();
+}
+
+void UMechWeaponHandler::Equip(UAbility_Base* ability, GearSlot slot)
+{
+	m_loadout[slot] = ability;
 }
