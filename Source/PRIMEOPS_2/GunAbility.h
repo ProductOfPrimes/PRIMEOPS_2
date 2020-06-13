@@ -9,13 +9,16 @@
 /**
  * 
  */
-UCLASS()
+UCLASS(ClassGroup = (Custom), meta = (BlueprintSpawnableComponent))
 class PRIMEOPS_2_API UGunAbility : public UAbility_Base
 {
 	GENERATED_BODY()
 	
 public:
+    UGunAbility();
+
 	virtual void ActivateAbility();
+	UFUNCTION(BlueprintCallable)
 	virtual void Fire();
 	virtual void OnCooldownFinish();
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
@@ -24,8 +27,6 @@ public:
 	float m_recoil = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Properties")
 	float m_spread = 0.0f; // Angle in degrees
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Properties")
-	float m_cooldown = 1.0f;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Properties")
 	float m_attack = 10.f;
@@ -42,6 +43,9 @@ public:
 	int m_burstCount; // Times to fire in burst
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Properties")
 	float m_burstShotCooldown;
+
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Weapon Properties")
+    TSubclassOf<AActor> projectile;
 
 protected:
 

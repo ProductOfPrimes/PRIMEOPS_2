@@ -1,24 +1,44 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "GunAbility.h"
+#include <string>
+#include "MechWeaponHandler.h"
+
+UGunAbility::UGunAbility()
+{
+    PrimaryComponentTick.bCanEverTick = true;
+
+    m_cooldownTimer = 0.0f;
+
+    // setup
+    m_burstCount = 1;
+    m_burstShotCooldown = 1.0 / 1.0f;
+    //m_burstTimer = GameTimer(m_burstTime);
+    m_bulletsToFire = 0u;
+    m_burstShotCooldownTimer = 0.0f;
+}
 
 void UGunAbility::ActivateAbility()
 {
 	if (m_cooldownTimer <= 0.0f && m_bulletsToFire == 0)
 	{
-		m_bulletsToFire = m_burstCount;
+        m_bulletsToFire = m_burstCount;
 	}
 }
 
 void UGunAbility::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction * ThisTickFunction)
 {
-	if (m_bulletsToFire > 0) // if we are firing
+	if (m_bulletsToFire != 0) // if we are firing
 	{
 		m_burstShotCooldownTimer = m_burstShotCooldownTimer - DeltaTime;
 
+        GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, FString::Printf(TEXT("%f"), m_burstShotCooldownTimer));
+
 		while (m_burstShotCooldownTimer < 0.0f)
 		{
-			m_burstShotCooldownTimer += m_burstShotCooldown;
+            GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Toast"));
+
+            m_burstShotCooldownTimer += m_burstShotCooldown;
 
 			m_bulletsToFire -= 1;
 
@@ -44,21 +64,7 @@ void UGunAbility::TickComponent(float DeltaTime, ELevelTick TickType, FActorComp
 	}
 	else
 	{
-		m_cooldownTimer = m_cooldownTimer - DeltaTime;
-
-		if (m_cooldownTimer < 0.0f)
-		{
-			if (m_onCooldown)
-			{
-				m_cooldownTimer = 0.0f;
-				m_onCooldown = false;
-				OnCooldownFinish();
-			}
-		}
-		else if (m_cooldownTimer > 0.0f)
-		{
-			m_onCooldown = true;
-		}
+        Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
 		//if (rumbleTimer.elapsed() >= m_rumbleTime)
 		//{
@@ -76,6 +82,23 @@ void UGunAbility::TickComponent(float DeltaTime, ELevelTick TickType, FActorComp
 
 void UGunAbility::Fire()
 {
+    GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Fire!"));
+
+    FVector forward = mechOwner->GetOwner()->GetActorForwardVector();
+
+    FActorSpawnParameters spawnParams;
+
+    AActor* owner = GetOwner();
+
+    FRotator rotator = owner->GetActorRotation();
+
+    FVector spawnLocation = GetOwner()->GetActorLocation();
+    char* ownerName = TCHAR_TO_ANSI(*owner->GetName());
+
+    GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, FString::Printf(TEXT("%s"), ownerName));
+
+    AActor* newBullet = GetWorld()->SpawnActor<AActor>(projectile, spawnLocation, rotator, spawnParams);
+
 }
 
 void UGunAbility::OnCooldownFinish()

@@ -5,8 +5,9 @@
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
 #include "Engine/World.h"
-#include "MechWeaponHandler.h"
 #include "Ability_Base.generated.h"
+
+class UMechWeaponHandler;
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class PRIMEOPS_2_API UAbility_Base : public UActorComponent
@@ -25,23 +26,30 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
-	//void SetOwner()
-
+	UFUNCTION(BlueprintCallable)
 	virtual void ActivateAbility();
 
+	UFUNCTION(BlueprintCallable)
 	virtual void OnEquip();
+	UFUNCTION(BlueprintCallable)
 	virtual void OnUnequip();
 
+	UFUNCTION(BlueprintCallable)
 	virtual void OnCooldownFinish();
 
-	void SetOwner(UMechWeaponHandler* owner);
+	UFUNCTION(BlueprintCallable)
+	void SetMechOwner(UMechWeaponHandler* owner);
 
-	class UMechWeaponHandler* mechOwner;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Gameplay")
+	UMechWeaponHandler* mechOwner;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Gameplay")
 	float m_cooldown = 0.1f;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Gameplay")
 	float m_heatGeneration = 0.25f;
 
 protected:
-	UPROPERTY(EditAnywhere, Category="Gameplay")
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Gameplay")
 	float m_cooldownTimer = 0.0f;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Gameplay")
 	bool m_onCooldown = false;
 };
