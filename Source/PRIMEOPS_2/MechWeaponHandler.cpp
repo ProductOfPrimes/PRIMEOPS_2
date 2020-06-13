@@ -25,6 +25,16 @@ void UMechWeaponHandler::BeginPlay()
 
     GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Hi"));
 
+    if (abilitySystem)
+    {
+        if (GetOwner()->HasAuthority() && ability)
+        {
+            GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Ability ready!"));
+            abilitySystem->GiveAbility(FGameplayAbilitySpec(ability.GetDefaultObject(), 1, 0));
+        }
+        abilitySystem->InitAbilityActorInfo(GetOwner(), GetOwner());
+    }
+
 	//
     if (sniper) 
     {
@@ -109,7 +119,7 @@ void UMechWeaponHandler::AddHeat(float _heat)
 	//m_heatDelayTimer.restart();
 }
 
-void UMechWeaponHandler::Equip(UAbility_Base* ability, GearSlot slot)
+void UMechWeaponHandler::Equip(UAbility_Base* _ability, GearSlot slot)
 {
-	m_loadout[slot] = ability;
+	m_loadout[slot] = _ability;
 }

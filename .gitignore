@@ -13,3 +13,4 @@ Build
 *.xcodeproj
 *.xcworkspace
 *.blend1
+*BuiltData.uasset

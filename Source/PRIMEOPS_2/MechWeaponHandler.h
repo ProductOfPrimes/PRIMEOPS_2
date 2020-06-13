@@ -61,6 +61,9 @@ public:
 
     UAbility_Base* m_loadout[4];
 
+    UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Abilities)
+    TSubclassOf<class UGameplayAbility> ability;
+
     UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Abilities, meta = (AllowPrivateAccess = "true"))
     UAbilitySystemComponent* abilitySystem;
 
@@ -68,7 +71,7 @@ protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
 
-    UAbilitySystemComponent* GetAbilitySystemComponent() const override
+    virtual UAbilitySystemComponent* GetAbilitySystemComponent() const override
     {
         return abilitySystem;
     }
