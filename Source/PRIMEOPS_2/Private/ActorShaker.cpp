@@ -49,6 +49,17 @@ void UActorShaker::TickComponent(float DeltaTime, ELevelTick TickType, FActorCom
 
 		offset = FMath::Lerp(offset, GetRelativeLocation(), m_smoothness * DeltaTime);
 
+	
+		GEngine->AddOnScreenDebugMessage(
+			1,
+			5.35f,   // Duration of message - limits distance messages scroll onto screen
+			FColor::Magenta.WithAlpha(128),   // Color and transparancy!
+			offset.ToString()  // Our usual text message format
+		);
+
+
+		UE_LOG(LogTemp, Warning, TEXT("shaking!"));
+
 		SetRelativeLocation(offset);
 	}
 	else

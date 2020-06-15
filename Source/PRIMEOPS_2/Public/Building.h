@@ -2,10 +2,10 @@
 
 #pragma once
 
-class UActorShaker;
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+
 #include "Building.generated.h"
 
 UCLASS()
@@ -24,11 +24,6 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		bool m_isAlive;
-
-	UPROPERTY(EditAnywhere)
-		UActorShaker* shaker;
-
-
 
 	// Sets default values for this actor's properties
 	ABuilding();
