@@ -33,7 +33,7 @@ public:
 	virtual void UpdateOperation(FLatentResponse& Response) override
 	{
 		timer -= Response.ElapsedTime();
-
+		
 	
 
 		Response.FinishAndTriggerIf(timer <= 0.0f, ExecutionFunction, OutputLink, CallbackTarget);
