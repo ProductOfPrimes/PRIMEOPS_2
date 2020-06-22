@@ -8,7 +8,6 @@
 // Sets default values
 ABuilding::ABuilding()
 {
-	m_isAlive = true;
 	m_hitPointsMax = 1000;
 
 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
@@ -21,15 +20,12 @@ ABuilding::ABuilding()
 void ABuilding::BeginPlay()
 {
 	Super::BeginPlay();
-	m_hitPoints = m_hitPointsMax;
 }
 
 // Called every frame
 void ABuilding::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
-
 }
 
 //float ABuilding::TakeDamage(float DamageAmount, FDamageEvent const& DamageEvent, AController* EventInstigator, AActor* DamageCauser)
