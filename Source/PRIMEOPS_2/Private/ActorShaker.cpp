@@ -17,8 +17,6 @@ void UActorShaker::BeginPlay()
 {
 	Super::BeginPlay();
 	SetRelativeLocation(FVector::ZeroVector);
-	// ...
-	
 }
 
 
@@ -28,13 +26,17 @@ void UActorShaker::TickComponent(float DeltaTime, ELevelTick TickType, FActorCom
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
 
-	if (trauma > 0.00001 && duration > 0)
+	if (duration > 0)
 	{
 		trauma -= ((m_decayLinear * DeltaTime) + (m_decayNonLinear * (trauma)*DeltaTime)); // trauma decreases nonlinearly
 		trauma = FMath::Max(trauma, 0.0f);
 
 		duration -= DeltaTime;
-		duration = FMath::Max(duration, 0.0f);
+		if (duration < 0)
+		{
+			duration = 0;
+			SetRelativeLocation(FVector::ZeroVector);
+		}
 		
 		float x = 0, y = 0, z = 0;
 
@@ -57,14 +59,7 @@ void UActorShaker::TickComponent(float DeltaTime, ELevelTick TickType, FActorCom
 			offset.ToString()  // Our usual text message format
 		);
 
-
-		UE_LOG(LogTemp, Warning, TEXT("shaking!"));
-
 		SetRelativeLocation(offset);
-	}
-	else
-	{
-		SetRelativeLocation(FVector::ZeroVector);
 	}
 }
 
