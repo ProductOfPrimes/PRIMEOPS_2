@@ -18,5 +18,5 @@ class PRIMEOPS_2_API UMyBlueprintFunctionLibrary : public UBlueprintFunctionLibr
 		UFUNCTION(BlueprintCallable, Category = "LatentActions",
 			meta = (Latent, LatentInfo = "LatentInfo", HidePin = "WorldContextObject", DefaultToSelf = "WorldContextObject"))
 		virtual void GetReqest(UObject* WorldContextObject, struct FLatentActionInfo LatentInfo);
-	
+
 };

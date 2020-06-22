@@ -13,7 +13,6 @@ class PRIMEOPS_2_API UActorShaker : public USceneComponent
 	GENERATED_BODY()
 
 	float trauma = 0.0f;
-
 	float duration = 1.0f;
 
 public:
