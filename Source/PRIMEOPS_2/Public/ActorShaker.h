@@ -13,7 +13,6 @@ class PRIMEOPS_2_API UActorShaker : public USceneComponent
 	GENERATED_BODY()
 
 	float trauma = 0.0f;
-
 	float duration = 1.0f;
 
 public:
@@ -23,7 +22,7 @@ public:
 		float m_traumaMax = 1.0f;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		float m_translationMax = 1000.0f;
+		float m_translationMax = 30.0f;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		float m_decayLinear = 1;
@@ -32,7 +31,7 @@ public:
 		float m_decayNonLinear = 1;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		float m_smoothness = 0.5f;
+		float m_smoothness = 0.9f;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 		bool m_constrainX = false;

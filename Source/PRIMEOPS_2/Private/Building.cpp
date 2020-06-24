@@ -8,8 +8,6 @@
 // Sets default values
 ABuilding::ABuilding()
 {
-	m_hitPointsMax = 1000;
-
 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 	//printf("test");

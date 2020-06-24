@@ -14,9 +14,6 @@ class PRIMEOPS_2_API ABuilding : public AActor
 	GENERATED_BODY()
 
 public:
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		float m_hitPointsMax;
-
 	// Sets default values for this actor's properties
 	ABuilding();
 
