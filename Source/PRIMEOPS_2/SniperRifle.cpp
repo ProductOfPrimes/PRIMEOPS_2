@@ -26,6 +26,7 @@ USniperRifle::USniperRifle()
 void USniperRifle::Fire()
 {
     GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, TEXT("Firing Sniper"));
+
 	// Spawn projectile
 	//GameObject* projectile = makeProjectile();
 
