@@ -14,10 +14,10 @@ class UAbilitySystem;
 UENUM(BlueprintType)
 enum GearSlot
 {
-	L_ARM   UMETA(DisplayName="Left Arm"),
-	L_SHD   UMETA(DisplayName="Left Shoulder"),
-	R_SHD   UMETA(DisplayName="Right Shoulder"),
-	R_ARM   UMETA(DisplayName="Right Arm"),
+	L_ARM          UMETA(DisplayName="Left Arm"),
+	L_SHD          UMETA(DisplayName="Left Shoulder"),
+	R_SHD          UMETA(DisplayName="Right Shoulder"),
+	R_ARM          UMETA(DisplayName="Right Arm"),
 	NUM_GEAR_SLOTS UMETA(DisplayName="Total")
 };
 
