@@ -31,7 +31,12 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input)
 	FVector moveInput = FVector();
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input)
+	FVector lastNonZeroMoveInput = FVector();
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input)
 	FVector aimInput = FVector();
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input)
+	FVector lastNonZeroAimInput = FVector();
 
 	//Torso Rotation Variables
 	///UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Aiming)

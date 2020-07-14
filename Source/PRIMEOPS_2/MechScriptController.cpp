@@ -23,6 +23,16 @@ void AMechScriptController::PollControllers()
 {
  	GetInputAnalogStickState(EControllerAnalogStick::Type::CAS_LeftStick, moveInput.Y, moveInput.X);
 	GetInputAnalogStickState(EControllerAnalogStick::Type::CAS_RightStick, aimInput.X, aimInput.Y);
+
+	if (!moveInput.IsNearlyZero())
+	{
+		lastNonZeroMoveInput = moveInput;
+	}
+
+	if (!aimInput.IsNearlyZero())
+	{
+		lastNonZeroAimInput = aimInput;
+	}
 }
 //
 //void AMechScriptController::DoLocomotion(float DeltaSeconds)
