@@ -65,7 +65,7 @@ void UActorShaker::TickComponent(float DeltaTime, ELevelTick TickType, FActorCom
 
 void UActorShaker::AddTrauma(float a_trauma, float a_duration)
 {
-	trauma += a_trauma;
+	trauma = FMath::Min(trauma + a_trauma, 1.0f);
 	duration = a_duration;
 }
 
