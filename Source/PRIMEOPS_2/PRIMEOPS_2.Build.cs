@@ -17,14 +17,14 @@ public class PRIMEOPS_2 : ModuleRules
             "GameplayTags",
         });
 
-		PrivateDependencyModuleNames.AddRange(new string[]
-        {
-            "GameplayAbilities",
-            "GameplayAbilitiesEditor",
-            "GameplayTags",
-            "GameplayTagsEditor",
-            "GameplayTasks",
-        });
+		//PrivateDependencyModuleNames.AddRange(new string[]
+        //{
+        //    "GameplayAbilities",
+        //    "GameplayAbilitiesEditor",
+        //    "GameplayTags",
+        //    "GameplayTagsEditor",
+        //    "GameplayTasks",
+        //});
 
 		// Uncomment if you are using Slate UI
 		// PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore" });
