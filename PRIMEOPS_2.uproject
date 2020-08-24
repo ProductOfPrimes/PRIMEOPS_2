@@ -82,6 +82,10 @@
 		{
 			"Name": "SubversionSourceControl",
 			"Enabled": false
+		},
+		{
+			"Name": "GamepadUMGPlugin",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
