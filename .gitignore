@@ -3,6 +3,7 @@ DerivedDataCache
 Intermediate
 Saved
 Build
+Builds
 .vscode
 .vs
 *.VC.db
@@ -14,3 +15,4 @@ Build
 *.xcworkspace
 *.blend1
 *BuiltData.uasset
+*.7z

@@ -1,22 +1,22 @@
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 0
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/PlayerLoadout.uasset" 1
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Team.uasset" 2
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/MainMenu/MadMechsGameInstance.uasset" 3
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/TeamInfo.uasset" 4
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/TeamTable.uasset" 5
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/UtilFunctionLibrary.uasset" 6
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/PlayerLoadout.uasset" 1
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Team.uasset" 2
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/MainMenu/MadMechsGameInstance.uasset" 3
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/TeamInfo.uasset" 4
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/TeamTable.uasset" 5
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/UtilFunctionLibrary.uasset" 6
 "../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 7
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/mech_master_skeleton.uasset" 8
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Airborne.uasset" 9
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Dash.uasset" 10
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Fidget.uasset" 11
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_HALO_Drop.uasset" 12
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Overheat.uasset" 13
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/mech_master_skeleton.uasset" 8
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Airborne.uasset" 9
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Dash.uasset" 10
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Fidget.uasset" 11
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_HALO_Drop.uasset" 12
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Overheat.uasset" 13
 "../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 14
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/BuildingDust.uasset" 15
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/T_Concrete_ChunkSubUV_D.uasset" 16
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/T_Concrete_ChunkSubUV_N_TGA.uasset" 17
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/DebrisSprites.uasset" 18
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/BuildingDust.uasset" 15
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/T_Concrete_ChunkSubUV_D.uasset" 16
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/T_Concrete_ChunkSubUV_N_TGA.uasset" 17
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/DebrisSprites.uasset" 18
 "../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 19
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 20
 "../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 21
@@ -53,7 +53,7 @@
 "../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 52
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraSUbUVAnimationMode.uasset" 53
 "../../Plugins/FX/Niagara/Content/Modules/Update/SubUV/SubUVAnimation.uasset" 54
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/Trail.uasset" 55
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/Trail.uasset" 55
 "../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformAOrBFloat.uasset" 56
 "../../Plugins/FX/Niagara/Content/Functions/IsolateLongestVectorComponent.uasset" 57
 "../../Plugins/FX/Niagara/Content/Functions/RandomPointInBox.uasset" 58
@@ -72,26 +72,26 @@
 "../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 71
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 72
 "../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 73
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_DebrisTrail.uasset" 74
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Stop_short.uasset" 75
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot__Idle.uasset" 76
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Run.uasset" 77
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_RunFast.uasset" 78
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Walk.uasset" 79
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Walk_Fast.uasset" 80
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/mech_master_skeleton_BlendSpace1D.uasset" 81
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Components/MechAimSpeedCurve.uasset" 82
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Components/MechAimingComponent.uasset" 83
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Components/MechTorqueCurve.uasset" 84
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Components/MechMovementComponent.uasset" 85
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_DebrisTrail.uasset" 74
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Stop_short.uasset" 75
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot__Idle.uasset" 76
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Run.uasset" 77
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_RunFast.uasset" 78
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Walk.uasset" 79
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Animations/Robot_Walk_Fast.uasset" 80
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/mech_master_skeleton_BlendSpace1D.uasset" 81
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Components/MechAimSpeedCurve.uasset" 82
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Components/MechAimingComponent.uasset" 83
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Components/MechTorqueCurve.uasset" 84
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Components/MechMovementComponent.uasset" 85
 "../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 86
 "../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 87
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Brass.uasset" 88
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/Smoke/T_dust_burst_01.uasset" 89
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/DustBurst.uasset" 90
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/Explosions/T_Explosion_Test_v1.uasset" 91
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/Explosions/T_Explosion_Test_v1_Normal.uasset" 92
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/Explosion.uasset" 93
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Brass.uasset" 88
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/Smoke/T_dust_burst_01.uasset" 89
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/DustBurst.uasset" 90
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/Explosions/T_Explosion_Test_v1.uasset" 91
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/Explosions/T_Explosion_Test_v1_Normal.uasset" 92
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/Explosion.uasset" 93
 "../../Plugins/FX/Niagara/Content/Functions/RandomRangeInteger.uasset" 94
 "../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedInt.uasset" 95
 "../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 96
@@ -104,118 +104,118 @@
 "../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/ConeLocation.uasset" 103
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraMassByVolume.uasset" 104
 "../../Plugins/FX/Niagara/Content/Modules/Update/Mass/CalculateSizeAndRotationalInertiaByMass.uasset" 105
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/Debris.uasset" 106
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/Debris.uasset" 106
 "../../Plugins/FX/Niagara/Content/DynamicInputs/Angles/NormalizedAngleToDegrees.uasset" 107
 "../../Plugins/FX/Niagara/Content/Functions/RandomPointInSphere.uasset" 108
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 109
 "../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/SphereLocation.uasset" 110
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/Explosion.uasset" 111
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/DustBurst.uasset" 112
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/Explosion.uasset" 111
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/DustBurst.uasset" 112
 "../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/Vector4FromCurve.uasset" 113
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_ProjectileImpact_ExplosionMissile.uasset" 114
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_ProjectileSelfDestruct.uasset" 115
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/PlayerHit.uasset" 116
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Missile.uasset" 117
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_Base.uasset" 118
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/HeatRumble.uasset" 119
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_ProjectileImpact_ExplosionMissile.uasset" 114
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_ProjectileSelfDestruct.uasset" 115
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/PlayerHit.uasset" 116
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Missile.uasset" 117
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_Base.uasset" 118
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/HeatRumble.uasset" 119
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 120
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 121
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 122
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 123
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/Flares/T_FlareElements_01C.uasset" 124
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/Flares/T_FlareElements_01D.uasset" 125
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/Smoke/T_MinionSmokeMask_Test.uasset" 126
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/Smoke/T_MinionSmokeTile_N.uasset" 127
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Textures/T_LargeWaves_N.uasset" 128
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/HeatDistortion.uasset" 129
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/Smoke/T_SmokeJet_Element_01.uasset" 130
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/SmokeJet.uasset" 131
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/Flares/T_FlareElements_01C.uasset" 124
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/Flares/T_FlareElements_01D.uasset" 125
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/Smoke/T_MinionSmokeMask_Test.uasset" 126
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/Smoke/T_MinionSmokeTile_N.uasset" 127
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Textures/T_LargeWaves_N.uasset" 128
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/HeatDistortion.uasset" 129
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/Smoke/T_SmokeJet_Element_01.uasset" 130
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/SmokeJet.uasset" 131
 "../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 132
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 133
 "../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/CylinderLocation.uasset" 134
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/HeatDistortion.uasset" 135
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/HeatDistortion.uasset" 135
 "../../Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Float.uasset" 136
 "../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSizeBySpeed.uasset" 137
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_heatSteamRadiator.uasset" 138
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Menu_Back.uasset" 139
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Overheat.uasset" 140
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/OverheatWarning.uasset" 141
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/MechRadiator.uasset" 142
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_heatSteamRadiator.uasset" 138
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Menu_Back.uasset" 139
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Overheat.uasset" 140
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/OverheatWarning.uasset" 141
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/MechRadiator.uasset" 142
 "../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 143
 "../../Plugins/FX/Niagara/Content/Functions/Helpers/AdvancePositionWithAcceleration.uasset" 144
 "../../Plugins/FX/Niagara/Content/DefaultAssets/Structs/LocationEvent.uasset" 145
 "../../Plugins/FX/Niagara/Content/Modules/Events/GenerateLocationEvent.uasset" 146
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Weapons/NS_MuzzleFlash.uasset" 147
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gunmetal_Light.uasset" 148
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gunmetal_Medium.uasset" 149
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GunScopeEmissiveGreen.uasset" 150
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/heatGradient.uasset" 151
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/DefaultHeatGlowMaterial.uasset" 152
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gunmetal_HeatGlow_Inst.uasset" 153
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GEAR_SNIPER.uasset" 154
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/GunAbility.uasset" 155
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/LivingActorComponent.uasset" 156
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Battle_Ready.uasset" 157
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/PS_BuildingDust.uasset" 158
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/BuildingStats.uasset" 159
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Building_Stats_Table.uasset" 160
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/Smoke/T_ImpactDust_01.uasset" 161
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/ImpactDust.uasset" 162
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Weapons/NS_MuzzleFlash.uasset" 147
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gunmetal_Light.uasset" 148
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gunmetal_Medium.uasset" 149
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GunScopeEmissiveGreen.uasset" 150
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/heatGradient.uasset" 151
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/DefaultHeatGlowMaterial.uasset" 152
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gunmetal_HeatGlow_Inst.uasset" 153
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GEAR_SNIPER.uasset" 154
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/GunAbility.uasset" 155
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/LivingActorComponent.uasset" 156
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Battle_Ready.uasset" 157
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/PS_BuildingDust.uasset" 158
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/BuildingStats.uasset" 159
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Building_Stats_Table.uasset" 160
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/Smoke/T_ImpactDust_01.uasset" 161
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/ImpactDust.uasset" 162
 "../../Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 163
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_ProjectileImpactDust.uasset" 164
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_ProjectileImpactDust.uasset" 164
 "../../Plugins/FX/Niagara/Content/Functions/Math/Transform2DLocalPositionToWorldSpace.uasset" 165
 "../../Plugins/FX/Niagara/Content/Functions/Rotation/InvertQuaternion.uasset" 166
 "../../Plugins/FX/Niagara/Content/Functions/Rotation/TransformVectorToMeshSpace.uasset" 167
 "../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uasset" 168
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Emissive_01.uasset" 169
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_01_A.uasset" 170
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_Metallic.uasset" 171
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_Normal_01.uasset" 172
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_Roughness.uasset" 173
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_01_A.uasset" 174
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Roof_01.uasset" 175
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OfficeOld_Large_01.uasset" 176
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_BuildingDustSurface.uasset" 177
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/BuildingCrumble.uasset" 178
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Explode_New2_.uasset" 179
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/BuildingType.uasset" 180
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_01_C.uasset" 181
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_01_C.uasset" 182
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Large_01.uasset" 183
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/BP_Building.uasset" 184
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_SplashDamage.uasset" 185
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/DefaultGearMaterialSimple.uasset" 186
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gun_Matte_Orange.uasset" 187
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/ExplosionFlare.uasset" 188
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/SimpleLightBurst.uasset" 189
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_ProjectileImpact_ExplosionHuge.uasset" 190
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Emissive_01.uasset" 169
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_01_A.uasset" 170
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_Metallic.uasset" 171
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_Normal_01.uasset" 172
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_Roughness.uasset" 173
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_01_A.uasset" 174
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Roof_01.uasset" 175
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OfficeOld_Large_01.uasset" 176
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_BuildingDustSurface.uasset" 177
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/BuildingCrumble.uasset" 178
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Explode_New2_.uasset" 179
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/BuildingType.uasset" 180
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_01_C.uasset" 181
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_01_C.uasset" 182
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Large_01.uasset" 183
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/BP_Building.uasset" 184
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_SplashDamage.uasset" 185
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/DefaultGearMaterialSimple.uasset" 186
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gun_Matte_Orange.uasset" 187
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/ExplosionFlare.uasset" 188
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/SimpleLightBurst.uasset" 189
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_ProjectileImpact_ExplosionHuge.uasset" 190
 "../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_02.uasset" 191
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/BulletStreak.uasset" 192
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_BulletStreak.uasset" 193
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/BulletStreak.uasset" 192
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_BulletStreak.uasset" 193
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 194
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 195
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 196
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 197
 "../../../Engine/Content/BasicShapes/Cube.uasset" 198
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Explode_huge.uasset" 199
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_Grenade.uasset" 200
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/GrenadeLauncher_fire.uasset" 201
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gunmetal_Dark_Red.uasset" 202
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GEAR_ROCKET02.uasset" 203
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/GrenadeLauncher.uasset" 204
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_RicochetSparks.uasset" 205
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Deflect.uasset" 206
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Deflect2.uasset" 207
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_Straight.uasset" 208
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/BulletEmissive.uasset" 209
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_ProjectileImpactMetalPenetratingSmall.uasset" 210
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/BulletEmissive_Blue.uasset" 211
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/sniperBullet.uasset" 212
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_MachineGun.uasset" 213
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/MuzzleFlashes/T_Muzzle_Flash.uasset" 214
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/MuzzleFlash.uasset" 215
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Explode_huge.uasset" 199
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_Grenade.uasset" 200
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/GrenadeLauncher_fire.uasset" 201
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gunmetal_Dark_Red.uasset" 202
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GEAR_ROCKET02.uasset" 203
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/GrenadeLauncher.uasset" 204
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_RicochetSparks.uasset" 205
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Deflect.uasset" 206
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Deflect2.uasset" 207
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_Straight.uasset" 208
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/BulletEmissive.uasset" 209
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_ProjectileImpactMetalPenetratingSmall.uasset" 210
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/BulletEmissive_Blue.uasset" 211
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/sniperBullet.uasset" 212
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_MachineGun.uasset" 213
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/MuzzleFlashes/T_Muzzle_Flash.uasset" 214
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/MuzzleFlash.uasset" 215
 "../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uasset" 216
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Weapons/NS_MuzzleFlashMachineGun.uasset" 217
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Weapons/NS_MuzzleFlashMachineGun.uasset" 217
 "../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/BreakVector.uasset" 218
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uasset" 219
 "../../Plugins/FX/Niagara/Content/Modules/Collision/AddRotationalVelocity.uasset" 220
@@ -239,54 +239,54 @@
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraCollisionRadiusOptions.uasset" 238
 "../../Plugins/FX/Niagara/Content/Modules/Collision/Collision.uasset" 239
 "../../Plugins/FX/Niagara/Content/Modules/Spawn/Orientation/V2/InitialMeshOrientation.uasset" 240
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/shellcasing.uasset" 241
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Weapons/NS_Shell_Casings.uasset" 242
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Gunfire.uasset" 243
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/shellcasing.uasset" 241
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Weapons/NS_Shell_Casings.uasset" 242
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Gunfire.uasset" 243
 "../../../Engine/Content/EditorShapes/Textures/T_ShapeNormal.uasset" 244
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gun_Matte.uasset" 245
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Olive_Drab.uasset" 246
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GEAR_MACHINE_GUN.uasset" 247
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/MachineGun.uasset" 248
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Projectile_Shotgun.uasset" 249
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_ShotGun.uasset" 250
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Weapons/NS_MuzzleFlashShotgun.uasset" 251
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Shotgun.uasset" 252
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Shotgun_Reload.uasset" 253
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gun_Gold.uasset" 254
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gunmetal_HeatGlow_Inst1.uasset" 255
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GEAR_SHOTGUN.uasset" 256
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Shotgun.uasset" 257
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/BP_shellcasing.uasset" 258
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_ProjectileImpact_ExplosionBlue.uasset" 259
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_TrailSmoke.uasset" 260
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_Sniper.uasset" 261
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/Jet.uasset" 262
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Weapons/NS_MuzzleFlash3.uasset" 263
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/SniperFire.uasset" 264
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Sniper.uasset" 265
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/CameraController.uasset" 266
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/ControlMapping/ProfileStruct.uasset" 267
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/ControlMapping/ProfileMapComponent.uasset" 268
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/MechController.uasset" 269
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/PlayerStateTDM.uasset" 270
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Fonts/VCR_OSD_MONO_1_001.uasset" 271
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Fonts/UAV-OSD-Mono_Font.uasset" 272
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Gameplay/GetReadyUI.uasset" 273
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/icon_sniper.uasset" 274
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Gameplay/Player_Card.uasset" 275
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Gameplay/PlayerCooldownsUI.uasset" 276
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Gameplay/GameHUD.uasset" 277
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Music/BlacificBeat.uasset" 278
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Music/BlacificBlenu_Converted.uasset" 279
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Music/BlacificBlim.uasset" 280
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/GameModePRIMEOPSTest.uasset" 281
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Gameplay/Rounded_Bar.uasset" 282
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Gameplay/MainPlayerUI.uasset" 283
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/Explosions/T_FireBall_07D_Depth.uasset" 284
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/Explosions/T_FireBall_07D_E.uasset" 285
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/ExplosionLargeFireball.uasset" 286
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gun_Matte.uasset" 245
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Olive_Drab.uasset" 246
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GEAR_MACHINE_GUN.uasset" 247
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/MachineGun.uasset" 248
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Projectile_Shotgun.uasset" 249
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_ShotGun.uasset" 250
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Weapons/NS_MuzzleFlashShotgun.uasset" 251
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Shotgun.uasset" 252
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Shotgun_Reload.uasset" 253
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gun_Gold.uasset" 254
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gunmetal_HeatGlow_Inst1.uasset" 255
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GEAR_SHOTGUN.uasset" 256
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Shotgun.uasset" 257
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/BP_shellcasing.uasset" 258
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_ProjectileImpact_ExplosionBlue.uasset" 259
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_TrailSmoke.uasset" 260
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_Sniper.uasset" 261
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/Jet.uasset" 262
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Weapons/NS_MuzzleFlash3.uasset" 263
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/SniperFire.uasset" 264
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Sniper.uasset" 265
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/CameraController.uasset" 266
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/ControlMapping/ProfileStruct.uasset" 267
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/ControlMapping/ProfileMapComponent.uasset" 268
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/MechController.uasset" 269
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/PlayerStateTDM.uasset" 270
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Fonts/VCR_OSD_MONO_1_001.uasset" 271
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Fonts/UAV-OSD-Mono_Font.uasset" 272
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Gameplay/GetReadyUI.uasset" 273
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/icon_sniper.uasset" 274
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Gameplay/Player_Card.uasset" 275
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Gameplay/PlayerCooldownsUI.uasset" 276
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Gameplay/GameHUD.uasset" 277
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Music/BlacificBeat.uasset" 278
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Music/BlacificBlenu_Converted.uasset" 279
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Music/BlacificBlim.uasset" 280
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/GameModePRIMEOPSTest.uasset" 281
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Gameplay/Rounded_Bar.uasset" 282
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Gameplay/MainPlayerUI.uasset" 283
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/Explosions/T_FireBall_07D_Depth.uasset" 284
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/Explosions/T_FireBall_07D_E.uasset" 285
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/ExplosionLargeFireball.uasset" 286
 "../../Plugins/FX/Niagara/Content/Modules/Update/Forces/AccelerationForce.uasset" 287
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/Fireball.uasset" 288
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/SingleEmitters/Fireball.uasset" 288
 "../../Plugins/FX/Niagara/Content/DynamicInputs/Add/Add_Vector.uasset" 289
 "../../Plugins/FX/Niagara/Content/DynamicInputs/LinearColor/MakeLinearColorFromVectorAndFloat.uasset" 290
 "../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/MakeVector3_FromColor.uasset" 291
@@ -295,40 +295,40 @@
 "../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/PointForce.uasset" 294
 "../../Plugins/FX/Niagara/Content/Functions/PointToLineSegmentDistance.uasset" 295
 "../../Plugins/FX/Niagara/Content/Modules/Update/Forces/LineAttractionForce.uasset" 296
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_MechCriticalDeathExplosion.uasset" 297
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/ExplosionEmissive.uasset" 298
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/Explosions/T_FireySmoke_01_Fire.uasset" 299
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/FireySmoke.uasset" 300
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_MechCriticalLoop.uasset" 301
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/MechSlide.uasset" 302
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/PlayerExplosion.uasset" 303
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/TurningMid.uasset" 304
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Components/MechPhysicsMaterial.uasset" 305
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Materials/Mech_ArmorBase.uasset" 306
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Materials/Mech_ArmorColorMap.uasset" 307
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Materials/Mech_Emissive.uasset" 308
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Materials/Mech_Metallic.uasset" 309
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Materials/Mech_Normals.uasset" 310
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Materials/Mech_Roughness.uasset" 311
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Materials/MechMat.uasset" 312
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/arm_01_l.uasset" 313
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/arm_01_r.uasset" 314
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/head_01.uasset" 315
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/legs_01.uasset" 316
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gunmetal_Dark_Blue.uasset" 317
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/RadiatorHeatGlow_Inst.uasset" 318
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/Mech_Radiator.uasset" 319
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_MechCriticalDeathExplosion.uasset" 297
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/ExplosionEmissive.uasset" 298
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/Explosions/T_FireySmoke_01_Fire.uasset" 299
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/FireySmoke.uasset" 300
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_MechCriticalLoop.uasset" 301
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/MechSlide.uasset" 302
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/PlayerExplosion.uasset" 303
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/TurningMid.uasset" 304
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Components/MechPhysicsMaterial.uasset" 305
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Materials/Mech_ArmorBase.uasset" 306
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Materials/Mech_ArmorColorMap.uasset" 307
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Materials/Mech_Emissive.uasset" 308
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Materials/Mech_Metallic.uasset" 309
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Materials/Mech_Normals.uasset" 310
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Materials/Mech_Roughness.uasset" 311
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Materials/MechMat.uasset" 312
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/arm_01_l.uasset" 313
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/arm_01_r.uasset" 314
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/head_01.uasset" 315
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/legs_01.uasset" 316
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gunmetal_Dark_Blue.uasset" 317
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/RadiatorHeatGlow_Inst.uasset" 318
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/Mech_Radiator.uasset" 319
 "../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 320
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/Robot_Body_PhysicsAsset.uasset" 321
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/shoulder_01_l.uasset" 322
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/shoulder_01_r.uasset" 323
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/torso_01.uasset" 324
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Mech_Pawn.uasset" 325
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityBase.uasset" 326
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GunScopeEmissiveBlue.uasset" 327
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/Robot_Body_PhysicsAsset.uasset" 321
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/shoulder_01_l.uasset" 322
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/shoulder_01_r.uasset" 323
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/torso_01.uasset" 324
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Mech_Pawn.uasset" 325
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityBase.uasset" 326
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GunScopeEmissiveBlue.uasset" 327
 "../../Plugins/FX/Niagara/Content/Modules/Update/Forces/PointAttractionForce.uasset" 328
 "../../Plugins/FX/Niagara/Content/Modules/Update/Forces/VortexForce.uasset" 329
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_BlinkCharge.uasset" 330
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_BlinkCharge.uasset" 330
 "../../Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uasset" 331
 "../../Plugins/FX/Niagara/Content/Functions/Masks/ConeMask.uasset" 332
 "../../Plugins/FX/Niagara/Content/Enums/ENiagaraCurlNoiseQuality.uasset" 333
@@ -336,162 +336,162 @@
 "../../Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl32.uasset" 335
 "../../Plugins/FX/Niagara/Content/VectorFields/Assets/TilingCurl64.uasset" 336
 "../../Plugins/FX/Niagara/Content/Modules/Update/Forces/CurlNoiseForce.uasset" 337
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_DashStreak.uasset" 338
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Dash.uasset" 339
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Gear_Speed.uasset" 340
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityBlink.uasset" 341
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_MissileTrail.uasset" 342
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_FireflyMissile.uasset" 343
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_SmokeSmall.uasset" 344
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Missile.uasset" 345
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GEAR_FIREFLY.uasset" 346
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityFireflyMissileLauncher.uasset" 347
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Gear_Armour.uasset" 348
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityPassive_Armor.uasset" 349
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityPassive_PerformanceBooster.uasset" 350
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_FlameJet.uasset" 351
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/THRUSTER_Burning_Air_loop_mono.uasset" 352
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/RocketBooster.uasset" 353
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Thruster.uasset" 354
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GEAR_ROCKET_BOOSTER.uasset" 355
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityRocketBooster.uasset" 356
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_Chaingun.uasset" 357
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Minigun.uasset" 358
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/ChainGun.uasset" 359
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_GrenadeTrail.uasset" 360
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_DashStreak.uasset" 338
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Dash.uasset" 339
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Gear_Speed.uasset" 340
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityBlink.uasset" 341
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_MissileTrail.uasset" 342
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_FireflyMissile.uasset" 343
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_SmokeSmall.uasset" 344
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Missile.uasset" 345
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GEAR_FIREFLY.uasset" 346
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityFireflyMissileLauncher.uasset" 347
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Gear_Armour.uasset" 348
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityPassive_Armor.uasset" 349
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityPassive_PerformanceBooster.uasset" 350
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_FlameJet.uasset" 351
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/THRUSTER_Burning_Air_loop_mono.uasset" 352
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/RocketBooster.uasset" 353
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Thruster.uasset" 354
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/GEAR_ROCKET_BOOSTER.uasset" 355
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityRocketBooster.uasset" 356
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_Chaingun.uasset" 357
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Minigun.uasset" 358
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/ChainGun.uasset" 359
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_GrenadeTrail.uasset" 360
 "../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 361
 "../../../Engine/Content/BasicShapes/Sphere.uasset" 362
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_MIRV_Submunition.uasset" 363
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_MIRV_Submunition.uasset" 363
 "../../../Engine/Content/EngineMeshes/Sphere.uasset" 364
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Impact.uasset" 365
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_MIRV.uasset" 366
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gear_Demolisher.uasset" 367
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/MIRV_Launcher.uasset" 368
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Abilities.uasset" 369
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityParameters.uasset" 370
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityType.uasset" 371
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/gear_sniper.uasset" 372
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityStruct.uasset" 373
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_armor.uasset" 374
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_blink.uasset" 375
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_chaingun.uasset" 376
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_grenade_launcher.uasset" 377
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_machine_gun.uasset" 378
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_mirv_launcher.uasset" 379
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_missile_launcher.uasset" 380
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_perf_boost.uasset" 381
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_shotgun.uasset" 382
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_sniper.uasset" 383
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_thruster.uasset" 384
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityTable.uasset" 385
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/MechWeaponHandlerBP.uasset" 386
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/GameStateTDM.uasset" 387
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/LandingShake.uasset" 388
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/LandingRumble.uasset" 389
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/Water/splash.uasset" 390
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/WaterSplash.uasset" 391
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/WaterSpray.uasset" 392
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Impact.uasset" 365
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Projectile_MIRV.uasset" 366
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Models/Gear_Demolisher.uasset" 367
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/MIRV_Launcher.uasset" 368
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/Abilities.uasset" 369
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityParameters.uasset" 370
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityType.uasset" 371
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/gear_sniper.uasset" 372
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityStruct.uasset" 373
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_armor.uasset" 374
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_blink.uasset" 375
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_chaingun.uasset" 376
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_grenade_launcher.uasset" 377
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_machine_gun.uasset" 378
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_mirv_launcher.uasset" 379
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_missile_launcher.uasset" 380
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_perf_boost.uasset" 381
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_shotgun.uasset" 382
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_sniper.uasset" 383
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/icon_thruster.uasset" 384
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/AbilityTable.uasset" 385
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Abilities/MechWeaponHandlerBP.uasset" 386
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/GameStateTDM.uasset" 387
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/LandingShake.uasset" 388
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/LandingRumble.uasset" 389
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/Water/splash.uasset" 390
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/WaterSplash.uasset" 391
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/WaterSpray.uasset" 392
 "../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedVector.uasset" 393
 "../../Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uasset" 394
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/textures/Water/rollingSplashWave.uasset" 395
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Materials/ScrollingWaterSplash.uasset" 396
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Meshes/hugeSplash_HugeSplash.uasset" 397
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_WaterSplash.uasset" 398
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_MechFootprintDust.uasset" 399
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Single_Step.uasset" 400
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/SPLASH_Big_Noise_mono.uasset" 401
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/PS_Chunky.uasset" 402
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/PS_Explosion.uasset" 403
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/mech_master_skeleton_AnimBlueprint.uasset" 404
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/Robot_Body_Full.uasset" 405
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP1.uasset" 406
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP2.uasset" 407
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP3.uasset" 408
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP4.uasset" 409
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/LoadoutViews.uasset" 410
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/LoadoutPreview.uasset" 411
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP1_Mat.uasset" 412
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP2_Mat.uasset" 413
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP3_Mat.uasset" 414
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP4_Mat.uasset" 415
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Blueprints/BlacificBlenu.uasset" 416
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Equip_Off.uasset" 417
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Equip_On.uasset" 418
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Equip_Selection.uasset" 419
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Menu_Enter.uasset" 420
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Menu_Selection.uasset" 421
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/VO_Converted/VO_ChooseYourTeams_Converted.uasset" 422
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Audio/Sound/VO_Converted/VO_PrimeOps_Converted.uasset" 423
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/BACKGROUND.uasset" 424
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Gear_Loadout.uasset" 425
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_ATHLETE.uasset" 426
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_BOXER.uasset" 427
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_DEMOLISHER.uasset" 428
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_DODGER.uasset" 429
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_FIREFLY.uasset" 430
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_KILLSHOT.uasset" 431
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_TANK.uasset" 432
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_WHIRLWIND.uasset" 433
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/ControlMapping/UserProfilesSaveGame.uasset" 434
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/SimpleDialogue.uasset" 435
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/ControlMapping/ProfileController.uasset" 436
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Fonts/VCR_OSD_MONO_Font.uasset" 437
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/background_panel.uasset" 438
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/background_panel_loadout_LARM.uasset" 439
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/background_panel_loadout_LSHD.uasset" 440
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/background_panel_loadout_RARM.uasset" 441
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/background_panel_loadout_RSHD.uasset" 442
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/CoolerComboBoxRow.uasset" 443
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/CoolerComboBox.uasset" 444
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_background_active.uasset" 445
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/HUD_GearIcon.uasset" 446
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/HUD_GearStatRow.uasset" 447
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_background.uasset" 448
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_background_passive.uasset" 449
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/LOADOUT_READY.uasset" 450
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/selection_square.uasset" 451
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/LoadoutCardState.uasset" 452
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/HUD_PlayerLoadoutCard.uasset" 453
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/MenuScreen.uasset" 454
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/P1.uasset" 455
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/P2.uasset" 456
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/P3.uasset" 457
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/P4.uasset" 458
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/PRIMEOPS_title.uasset" 459
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/HUD_MainMenu.uasset" 460
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/MainMenu/MainMenu_PlayerController.uasset" 461
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/MainMenu/GameMode_MainMenu.uasset" 462
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/BackgroundPanelSteel.uasset" 463
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/GearShelfItem.uasset" 464
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/LoadoutMenu.uasset" 465
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/GearShelf.uasset" 466
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/LoadoutMenu_Mat.uasset" 467
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/scan_lines.uasset" 468
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Gameplay/Rounded_Box.uasset" 469
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/chevron.uasset" 470
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/corner_square.uasset" 471
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/CoolCursor.uasset" 472
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Cursor.uasset" 473
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/gearSelection.uasset" 474
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/go.uasset" 475
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/missileTracker.uasset" 476
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/pause.uasset" 477
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/play.uasset" 478
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/playerDoomed.uasset" 479
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/ready.uasset" 480
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/victory_blue.uasset" 481
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/victory_red.uasset" 482
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_armor.uasset" 483
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_blink.uasset" 484
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_chaingun.uasset" 485
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_grenade_launcher.uasset" 486
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_machine_gun.uasset" 487
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_mirv_launcher.uasset" 488
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_missile_launcher.uasset" 489
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_perf_boost.uasset" 490
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_shotgun.uasset" 491
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_sniper.uasset" 492
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_thruster.uasset" 493
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/textures/Water/rollingSplashWave.uasset" 395
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Materials/ScrollingWaterSplash.uasset" 396
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Meshes/hugeSplash_HugeSplash.uasset" 397
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_WaterSplash.uasset" 398
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_MechFootprintDust.uasset" 399
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Single_Step.uasset" 400
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/SPLASH_Big_Noise_mono.uasset" 401
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/PS_Chunky.uasset" 402
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/PS_Explosion.uasset" 403
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/mech_master_skeleton_AnimBlueprint.uasset" 404
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Mech/Parts/Robot_Body_Full.uasset" 405
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP1.uasset" 406
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP2.uasset" 407
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP3.uasset" 408
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP4.uasset" 409
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/LoadoutViews.uasset" 410
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/LoadoutPreview.uasset" 411
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP1_Mat.uasset" 412
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP2_Mat.uasset" 413
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP3_Mat.uasset" 414
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/LoadoutP4_Mat.uasset" 415
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Blueprints/BlacificBlenu.uasset" 416
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Equip_Off.uasset" 417
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Equip_On.uasset" 418
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Equip_Selection.uasset" 419
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Menu_Enter.uasset" 420
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/Menu_Selection.uasset" 421
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/VO_Converted/VO_ChooseYourTeams_Converted.uasset" 422
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Audio/Sound/VO_Converted/VO_PrimeOps_Converted.uasset" 423
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/BACKGROUND.uasset" 424
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Gear_Loadout.uasset" 425
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_ATHLETE.uasset" 426
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_BOXER.uasset" 427
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_DEMOLISHER.uasset" 428
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_DODGER.uasset" 429
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_FIREFLY.uasset" 430
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_KILLSHOT.uasset" 431
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_TANK.uasset" 432
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Graphics/CARD_WHIRLWIND.uasset" 433
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/ControlMapping/UserProfilesSaveGame.uasset" 434
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/SimpleDialogue.uasset" 435
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/ControlMapping/ProfileController.uasset" 436
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Fonts/VCR_OSD_MONO_Font.uasset" 437
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/background_panel.uasset" 438
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/background_panel_loadout_LARM.uasset" 439
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/background_panel_loadout_LSHD.uasset" 440
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/background_panel_loadout_RARM.uasset" 441
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/background_panel_loadout_RSHD.uasset" 442
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/CoolerComboBoxRow.uasset" 443
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/CoolerComboBox.uasset" 444
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_background_active.uasset" 445
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/HUD_GearIcon.uasset" 446
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/HUD_GearStatRow.uasset" 447
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_background.uasset" 448
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_background_passive.uasset" 449
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/LOADOUT_READY.uasset" 450
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/selection_square.uasset" 451
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/LoadoutCardState.uasset" 452
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/HUD_PlayerLoadoutCard.uasset" 453
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/MenuScreen.uasset" 454
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/P1.uasset" 455
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/P2.uasset" 456
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/P3.uasset" 457
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/P4.uasset" 458
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/PRIMEOPS_title.uasset" 459
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/HUD_MainMenu.uasset" 460
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/MainMenu/MainMenu_PlayerController.uasset" 461
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/MainMenu/GameMode_MainMenu.uasset" 462
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/BackgroundPanelSteel.uasset" 463
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/GearShelfItem.uasset" 464
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/LoadoutMenu.uasset" 465
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/GearShelf.uasset" 466
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/LoadoutMenu_Mat.uasset" 467
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/scan_lines.uasset" 468
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Gameplay/Rounded_Box.uasset" 469
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/chevron.uasset" 470
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/corner_square.uasset" 471
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/CoolCursor.uasset" 472
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Cursor.uasset" 473
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/gearSelection.uasset" 474
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/go.uasset" 475
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/missileTracker.uasset" 476
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/pause.uasset" 477
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/play.uasset" 478
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/playerDoomed.uasset" 479
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/ready.uasset" 480
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/victory_blue.uasset" 481
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/victory_red.uasset" 482
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_armor.uasset" 483
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_blink.uasset" 484
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_chaingun.uasset" 485
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_grenade_launcher.uasset" 486
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_machine_gun.uasset" 487
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_mirv_launcher.uasset" 488
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_missile_launcher.uasset" 489
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_perf_boost.uasset" 490
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_shotgun.uasset" 491
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_sniper.uasset" 492
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Gear/gear_thruster.uasset" 493
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 494
 "../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 495
 "../../../Engine/Content/BasicShapes/Cone.uasset" 496
@@ -529,313 +529,318 @@
 "../../../Engine/Content/EditorResources/S_Note.uasset" 528
 "../../../Engine/Content/EditorResources/S_Solver.uasset" 529
 "../../../Engine/Content/EditorResources/S_Trigger.uasset" 530
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 531
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 532
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 533
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 534
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 535
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 536
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 537
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 538
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 539
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 540
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 541
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 542
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 543
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 544
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 545
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 546
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 547
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 548
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 549
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 550
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 551
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 552
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 553
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 554
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 555
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 556
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 557
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 558
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 559
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 560
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 561
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 562
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 563
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 564
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 565
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 566
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 567
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 568
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 569
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 570
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 571
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 572
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 573
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 574
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 575
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 576
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 577
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 578
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 579
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 580
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 581
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 582
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 583
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 584
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 585
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 586
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 587
-"../../../Engine/Content/EngineResources/Black.uasset" 588
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 589
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 590
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 591
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 592
-"../../../Engine/Content/EngineSounds/Master.uasset" 593
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 594
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 595
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 596
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 597
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 598
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 599
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 600
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 601
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 602
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 603
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 604
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 605
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 606
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 607
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 608
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 609
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 610
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 611
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 612
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 613
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 614
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 615
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 616
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 617
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 618
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 619
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 620
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 621
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 622
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 623
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 624
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 625
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 626
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 627
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 628
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 629
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 630
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 631
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 632
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/MechSpawner.uasset" 633
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 634
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 635
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 636
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 637
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 638
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 639
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 640
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 641
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 642
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/NS_BuildingDustSmall.uasset" 643
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Pole_01.uasset" 644
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/BP_Prop.uasset" 645
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/WorldPositionWithScale.uasset" 646
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/WorldPositionBehindTranslucency.uasset" 647
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos.uasset" 648
-"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Normal.uasset" 649
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos_Normal.uasset" 650
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 651
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 652
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/WaterPlane/Lake/Textures/T_SmallWaves_N.uasset" 653
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Materials/OceanWater_SS.uasset" 654
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Textures/T_LargeWaves_H.uasset" 655
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Textures/T_Seafoam_01.uasset" 656
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Materials/M_OceanWater_1.uasset" 657
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Materials/M_OceanWater_1_Inst.uasset" 658
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/WaterPlane/Meshes/SM_OceanWater.uasset" 659
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Blueprint/BP_OceanWater.uasset" 660
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Meshes/ripples.uasset" 661
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_WaterSplashHuge.uasset" 662
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_WaterSplashLarge.uasset" 663
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Blueprint/BP_ShallowWater.uasset" 664
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_01_B.uasset" 665
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_01_B.uasset" 666
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_02_A.uasset" 667
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_02_A.uasset" 668
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_03_A.uasset" 669
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_03_A.uasset" 670
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_04_A.uasset" 671
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_04_A.uasset" 672
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_04_B.uasset" 673
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_04_B.uasset" 674
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Road_01.uasset" 675
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Road_Normal.uasset" 676
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_Road_01.uasset" 677
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 678
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/WaterPlane/SeaFloor.uasset" 679
-"../../../Engine/Content/EngineSounds/ReverbSettings/City.uasset" 680
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Glass_Windows.uasset" 681
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OctagonRound_Medium_01.uasset" 682
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_Office_Large_01A.uasset" 683
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OfficeOctagon_Large_01.uasset" 684
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OfficeOctagon_Large_02.uasset" 685
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OfficeOctagon_Medium_01.uasset" 686
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OfficeOld_Medium_01.uasset" 687
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OfficeOld_Medium_02.uasset" 688
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OfficeSquare_Medium_02.uasset" 689
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/TerrainPrefabs/BridgeSection_2-Lane-Rails.uasset" 690
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/TerrainPrefabs/Docks_Corner.uasset" 691
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/TerrainPrefabs/Docks_Wall.uasset" 692
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/TerrainPrefabs/Road_2-Lane.uasset" 693
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/TerrainPrefabs/Road_2-Lane_4-wayIntersection.uasset" 694
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Models/TerrainPrefabs/Road_2-Lane_Corner.uasset" 695
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_02.uasset" 696
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Corner_01.uasset" 697
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Corner_02.uasset" 698
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Door_02.uasset" 699
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_01.uasset" 700
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_03.uasset" 701
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_Corner_01.uasset" 702
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_Corner_02.uasset" 703
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stack_01.uasset" 704
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stack_02.uasset" 705
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stack_03.uasset" 706
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_CityHall_01.uasset" 707
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_FireEscape_01.uasset" 708
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_FireEscape_02.uasset" 709
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_FireEscape_03.uasset" 710
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Large_02.uasset" 711
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_01.uasset" 712
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_01_Glass.uasset" 713
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_03.uasset" 714
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_03_Glass.uasset" 715
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_04.uasset" 716
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_04_Glass.uasset" 717
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_01.uasset" 718
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_01_Glass.uasset" 719
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_02.uasset" 720
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_02_Glass.uasset" 721
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Bridge_Edge_01.uasset" 722
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Bridge_Wall_01.uasset" 723
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Fence_01.uasset" 724
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Fence_End_01.uasset" 725
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Flower_01.uasset" 726
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Grass_01.uasset" 727
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_GrassPath_Corner_01.uasset" 728
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_GrassPath_Straight_01.uasset" 729
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_GrassPath_T_01.uasset" 730
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_02.uasset" 731
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_03.uasset" 732
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_Arrow_01.uasset" 733
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_Arrow_02.uasset" 734
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_Bare_01.uasset" 735
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_Crossing_01.uasset" 736
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_Lines_01.uasset" 737
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_Lines_02.uasset" 738
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_ParkingLines_01.uasset" 739
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_YellowLines_01.uasset" 740
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_YellowLines_02.uasset" 741
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_01.uasset" 742
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Construction_01.uasset" 743
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Corner_01.uasset" 744
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Corner_02.uasset" 745
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Dip_01.uasset" 746
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Dip_Corner_01.uasset" 747
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Grate_01.uasset" 748
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Grate_02.uasset" 749
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Gutter_01.uasset" 750
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Merger_01.uasset" 751
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Panel_01.uasset" 752
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Panel_02.uasset" 753
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Straight_01.uasset" 754
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_Skyline.uasset" 755
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Skyline.uasset" 756
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Skyline_01.uasset" 757
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Skyline_02.uasset" 758
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Skyline_03.uasset" 759
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Skyline_04.uasset" 760
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Street_Divider_01.uasset" 761
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Street_Divider_02.uasset" 762
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_SubwayEntrance_01.uasset" 763
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_SubwayEntrance_02.uasset" 764
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Tree_01.uasset" 765
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Tree_02.uasset" 766
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Tree_03.uasset" 767
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Corner_01.uasset" 768
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Corner_02.uasset" 769
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Pipe_01.uasset" 770
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Rock_01.uasset" 771
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Straight_01.uasset" 772
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Straight_02.uasset" 773
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Straight_03.uasset" 774
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Aircon_01.uasset" 775
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Barrier_01.uasset" 776
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_01.uasset" 777
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_BillboardAds.uasset" 778
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Billboard.uasset" 779
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_02.uasset" 780
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_03.uasset" 781
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_07.uasset" 782
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_BusStop_01.uasset" 783
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_CarboardBox_01.uasset" 784
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_CarboardBox_03.uasset" 785
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_CarboardBox_04.uasset" 786
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Cone_01.uasset" 787
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_HotdogStand_01.uasset" 788
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Hydrant_01.uasset" 789
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Arm_01.uasset" 790
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Base_01.uasset" 791
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Base_02.uasset" 792
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Box_01.uasset" 793
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_CrossButton_01.uasset" 794
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_CrossLights_01.uasset" 795
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Lights_01.uasset" 796
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Lights_02.uasset" 797
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Mailbox_01.uasset" 798
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Manhole_01.uasset" 799
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Manhole_02.uasset" 800
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Newspaper_02.uasset" 801
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_ParkBench_01.uasset" 802
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_ParkingMeter_01.uasset" 803
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_ParkingMeter_02.uasset" 804
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Phones_01.uasset" 805
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_PicnicTable_01.uasset" 806
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Power_Cables_01.uasset" 807
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Power_Cables_03.uasset" 808
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_PowerBox_01.uasset" 809
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Roof_Aircon_02.uasset" 810
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_SatDish_01.uasset" 811
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_SidewalkPoles_01.uasset" 812
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Sign_BusStop_01.uasset" 813
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Sign_GiveWay_03.uasset" 814
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Skip_01.uasset" 815
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_TrashBag_01.uasset" 816
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_TrashBag_02.uasset" 817
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_TrashBag_03.uasset" 818
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Trashbin_01.uasset" 819
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_TrashCan_01.uasset" 820
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_TrashCan_Lid_01.uasset" 821
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Vents_Corner_02.uasset" 822
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Vents_Exhaust_01.uasset" 823
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Vents_Transition_01.uasset" 824
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/LookDev_Demo_Cooler.umap" 825
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/MainMenu.umap" 826
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/JoinServerWindow.uasset" 827
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/Yes_No_Dialogue.uasset" 828
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Fonts/UAV-OSD-Sans-Mono_Font.uasset" 829
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/ProfileComboBox.uasset" 830
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/UI/Icons/chevrons_double.uasset" 831
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/ControlsWidget.uasset" 832
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/MainTitleWidget.uasset" 833
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/TitleScreenCharacterController.uasset" 834
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/TitleScreenGameMode.uasset" 835
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/TitleScreen_BuiltData.uasset" 836
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/Background.uasset" 837
-"../../../../../../Users/mattd/Documents/Unreal Projects/Primeops 2/PRIMEOPS_2/Content/TitleScreen.umap" 838
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 839
-"../../../Engine/Content/Maps/Entry.umap" 840
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 531
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 532
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 533
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 534
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 535
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 536
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 537
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 538
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 539
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 540
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 541
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 542
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 543
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 544
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 545
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 546
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 547
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 548
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 549
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 550
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 551
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 552
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 553
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 554
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 555
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 556
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 557
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 558
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 559
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 560
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 561
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 562
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 563
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 564
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 565
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 566
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 567
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 568
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 569
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 570
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 571
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 572
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 573
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 574
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 575
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 576
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 577
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 578
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 579
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 580
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 581
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 582
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 583
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 584
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 585
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 586
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 587
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 588
+"../../../Engine/Content/EngineResources/Black.uasset" 589
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 590
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 591
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 592
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 593
+"../../../Engine/Content/EngineSounds/Master.uasset" 594
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 595
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 596
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 597
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 598
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 599
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 600
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 601
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 602
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 603
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 604
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 605
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 606
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 607
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 608
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 609
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 610
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 611
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 612
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 613
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 614
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 615
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 616
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 617
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 618
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 619
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 620
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 621
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 622
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 623
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 624
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 625
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 626
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 627
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 628
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 629
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 630
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 631
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 632
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 633
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 634
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 635
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/MechSpawner.uasset" 636
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 637
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 638
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 639
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 640
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 641
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 642
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 643
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 644
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 645
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/NS_BuildingDustSmall.uasset" 646
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Pole_01.uasset" 647
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/BP_Prop.uasset" 648
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/WorldPositionWithScale.uasset" 649
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/WorldPositionBehindTranslucency.uasset" 650
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos.uasset" 651
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Normal.uasset" 652
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos_Normal.uasset" 653
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 654
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 655
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/WaterPlane/Lake/Textures/T_SmallWaves_N.uasset" 656
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Materials/OceanWater_SS.uasset" 657
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Textures/T_LargeWaves_H.uasset" 658
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Textures/T_Seafoam_01.uasset" 659
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Materials/M_OceanWater_1.uasset" 660
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Materials/M_OceanWater_1_Inst.uasset" 661
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/WaterPlane/Meshes/SM_OceanWater.uasset" 662
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Blueprint/BP_OceanWater.uasset" 663
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Meshes/ripples.uasset" 664
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_WaterSplashHuge.uasset" 665
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/VFX/Impacts/NS_WaterSplashLarge.uasset" 666
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/WaterPlane/Ocean/Blueprint/BP_ShallowWater.uasset" 667
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_01_B.uasset" 668
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_01_B.uasset" 669
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_02_A.uasset" 670
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_02_A.uasset" 671
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_03_A.uasset" 672
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_03_A.uasset" 673
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_04_A.uasset" 674
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_04_A.uasset" 675
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_04_B.uasset" 676
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_04_B.uasset" 677
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Road_01.uasset" 678
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Road_Normal.uasset" 679
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Texture_Road_01.uasset" 680
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 681
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/WaterPlane/SeaFloor.uasset" 682
+"../../../Engine/Content/EngineSounds/ReverbSettings/City.uasset" 683
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Glass_Windows.uasset" 684
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OctagonRound_Medium_01.uasset" 685
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_Office_Large_01A.uasset" 686
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OfficeOctagon_Large_01.uasset" 687
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OfficeOctagon_Large_02.uasset" 688
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OfficeOctagon_Medium_01.uasset" 689
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OfficeOld_Medium_01.uasset" 690
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OfficeOld_Medium_02.uasset" 691
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/Buildings/PF_OfficeSquare_Medium_02.uasset" 692
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/TerrainPrefabs/BridgeSection_2-Lane-Rails.uasset" 693
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/TerrainPrefabs/Docks_Corner.uasset" 694
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/TerrainPrefabs/Docks_Wall.uasset" 695
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/TerrainPrefabs/Road_2-Lane.uasset" 696
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/TerrainPrefabs/Road_2-Lane_4-wayIntersection.uasset" 697
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Models/TerrainPrefabs/Road_2-Lane_Corner.uasset" 698
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_02.uasset" 699
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Corner_01.uasset" 700
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Corner_02.uasset" 701
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Door_02.uasset" 702
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_01.uasset" 703
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_03.uasset" 704
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_Corner_01.uasset" 705
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_Corner_02.uasset" 706
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stack_01.uasset" 707
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stack_02.uasset" 708
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stack_03.uasset" 709
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_CityHall_01.uasset" 710
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_FireEscape_01.uasset" 711
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_FireEscape_02.uasset" 712
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_FireEscape_03.uasset" 713
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Large_02.uasset" 714
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_01.uasset" 715
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_01_Glass.uasset" 716
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_03.uasset" 717
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_03_Glass.uasset" 718
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_04.uasset" 719
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_04_Glass.uasset" 720
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_01.uasset" 721
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_01_Glass.uasset" 722
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_02.uasset" 723
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_02_Glass.uasset" 724
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Bridge_Edge_01.uasset" 725
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Bridge_Wall_01.uasset" 726
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Fence_01.uasset" 727
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Fence_End_01.uasset" 728
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Flower_01.uasset" 729
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Grass_01.uasset" 730
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_GrassPath_Corner_01.uasset" 731
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_GrassPath_Straight_01.uasset" 732
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_GrassPath_T_01.uasset" 733
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_02.uasset" 734
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_03.uasset" 735
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_Arrow_01.uasset" 736
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_Arrow_02.uasset" 737
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_Bare_01.uasset" 738
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_Crossing_01.uasset" 739
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_Lines_01.uasset" 740
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_Lines_02.uasset" 741
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_ParkingLines_01.uasset" 742
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_YellowLines_01.uasset" 743
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Road_YellowLines_02.uasset" 744
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_01.uasset" 745
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Construction_01.uasset" 746
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Corner_01.uasset" 747
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Corner_02.uasset" 748
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Dip_01.uasset" 749
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Dip_Corner_01.uasset" 750
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Grate_01.uasset" 751
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Grate_02.uasset" 752
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Gutter_01.uasset" 753
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Merger_01.uasset" 754
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Panel_01.uasset" 755
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Panel_02.uasset" 756
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Straight_01.uasset" 757
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_Texture_Skyline.uasset" 758
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Skyline.uasset" 759
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Skyline_01.uasset" 760
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Skyline_02.uasset" 761
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Skyline_03.uasset" 762
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Skyline_04.uasset" 763
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Street_Divider_01.uasset" 764
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Street_Divider_02.uasset" 765
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_SubwayEntrance_01.uasset" 766
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_SubwayEntrance_02.uasset" 767
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Tree_01.uasset" 768
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Tree_02.uasset" 769
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_Tree_03.uasset" 770
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Corner_01.uasset" 771
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Corner_02.uasset" 772
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Pipe_01.uasset" 773
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Rock_01.uasset" 774
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Straight_01.uasset" 775
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Straight_02.uasset" 776
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Straight_03.uasset" 777
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Aircon_01.uasset" 778
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Barrier_01.uasset" 779
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_01.uasset" 780
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Textures/T_PolygonCity_BillboardAds.uasset" 781
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Materials/Mat_PolygonCity_Billboard.uasset" 782
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_02.uasset" 783
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_03.uasset" 784
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_07.uasset" 785
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_BusStop_01.uasset" 786
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_CarboardBox_01.uasset" 787
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_CarboardBox_03.uasset" 788
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_CarboardBox_04.uasset" 789
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Cone_01.uasset" 790
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_HotdogStand_01.uasset" 791
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Hydrant_01.uasset" 792
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Arm_01.uasset" 793
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Base_01.uasset" 794
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Base_02.uasset" 795
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Box_01.uasset" 796
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_CrossButton_01.uasset" 797
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_CrossLights_01.uasset" 798
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Lights_01.uasset" 799
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Lights_02.uasset" 800
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Mailbox_01.uasset" 801
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Manhole_01.uasset" 802
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Manhole_02.uasset" 803
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Newspaper_02.uasset" 804
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_ParkBench_01.uasset" 805
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_ParkingMeter_01.uasset" 806
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_ParkingMeter_02.uasset" 807
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Phones_01.uasset" 808
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_PicnicTable_01.uasset" 809
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Power_Cables_01.uasset" 810
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Power_Cables_03.uasset" 811
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_PowerBox_01.uasset" 812
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Roof_Aircon_02.uasset" 813
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_SatDish_01.uasset" 814
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_SidewalkPoles_01.uasset" 815
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Sign_BusStop_01.uasset" 816
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Sign_GiveWay_03.uasset" 817
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Skip_01.uasset" 818
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_TrashBag_01.uasset" 819
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_TrashBag_02.uasset" 820
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_TrashBag_03.uasset" 821
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Trashbin_01.uasset" 822
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_TrashCan_01.uasset" 823
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_TrashCan_Lid_01.uasset" 824
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Vents_Corner_02.uasset" 825
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Vents_Exhaust_01.uasset" 826
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/PolygonCity/Meshes/Props/SM_Prop_Vents_Transition_01.uasset" 827
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/LookDev_Demo_Cooler.umap" 828
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/MainMenu.umap" 829
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/JoinServerWindow.uasset" 830
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Fonts/UAV-OSD-Sans-Mono_Font.uasset" 831
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/Yes_No_Dialogue.uasset" 832
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/ProfileComboBox.uasset" 833
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/chevrons_double.uasset" 834
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/ControlsWidget.uasset" 835
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/ServerButton.uasset" 836
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/UI/Icons/Refresh.uasset" 837
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/ServerBrowser.uasset" 838
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/MainTitleWidget.uasset" 839
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/TitleScreenCharacterController.uasset" 840
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/TitleScreenGameMode.uasset" 841
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/Blueprints/Title/Background.uasset" 842
+"../../../../../../Users/Matthew/Desktop/Also Primeops 2/PRIMEOPS_2/Content/TitleScreen.umap" 843
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 844
+"../../../Engine/Content/Maps/Entry.umap" 845
