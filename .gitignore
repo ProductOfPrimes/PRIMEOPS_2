@@ -14,3 +14,5 @@ Build
 *.xcworkspace
 *.blend1
 *BuiltData.uasset
+ArtSource/*
+GameReleases/*
